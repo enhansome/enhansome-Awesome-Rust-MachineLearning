@@ -1,1716 +1,3592 @@
 {
   "items": [
     {
-      "description": "can be handled as Jupyter Kernel or REPL. It is helpful for learning and validation.",
+      "description": null,
       "items": [
         {
-          "node_type": "item",
-          "title": "google/evcxr",
-          "description": "An evaluation context for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T23:39:51Z",
-            "owner": "evcxr",
-            "repo": "evcxr",
-            "stars": 6469
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "murarth/rusti",
-          "description": "REPL for the Rust programming language",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2019-07-12T17:55:59Z",
-            "owner": "murarth",
-            "repo": "rusti",
-            "stars": 1322
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "emakryo/rustdef",
-          "description": "Jupyter extension for rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2023-03-13T02:57:27Z",
-            "owner": "emakryo",
-            "repo": "rustdef",
-            "stars": 29
-          }
-        }
-      ],
-      "title": "Jupyter Notebook"
-    },
-    {
-      "description": "It might want to try for now.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "38/plotters",
-          "description": "A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-13T12:44:14Z",
-            "owner": "plotters-rs",
-            "repo": "plotters",
-            "stars": 4614
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "igiagkiozis/plotly",
-          "description": "Plotly for Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-03T03:04:58Z",
-            "owner": "plotly",
-            "repo": "plotly.rs",
-            "stars": 1449
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "milliams/plotlib",
-          "description": "Data plotting library for Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-12-12T23:02:52Z",
-            "owner": "milliams",
-            "repo": "plotlib",
-            "stars": 468
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "SiegeLord/RustGnuplot",
-          "description": "A Rust library for drawing plots, powered by Gnuplot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-12-15T19:19:37Z",
-            "owner": "SiegeLord",
-            "repo": "RustGnuplot",
-            "stars": 430
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "askanium/rustplotlib",
-          "description": "A pure Rust visualization library inspired by D3.js",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-08-14T19:43:50Z",
-            "owner": "askanium",
-            "repo": "rustplotlib",
-            "stars": 294
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "coder543/dataplotlib",
-          "description": "Scientific plotting library for Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2017-10-14T03:46:26Z",
-            "owner": "coder543",
-            "repo": "dataplotlib",
-            "stars": 59
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "shahinrostami/chord_rs",
-          "description": "Rust crate for creating beautiful interactive Chord Diagrams. Pro version available at https://m8.fyi/chord",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-12-11T08:43:11Z",
-            "owner": "shahinrostami",
-            "repo": "plotapi_rs",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "procyon-rs/vega_lite_4.rs",
-          "description": "rust api for vega-lite v4",
           "children": [
             {
               "node_type": "item",
-              "title": "procyon-rs/showata",
-              "description": "A library of to show data (in browser, evcxr_jupyter) as table, chart...",
+              "title": "google/evcxr",
+              "description": "An evaluation context for Rust.",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 150246564,
                 "language": "Rust",
-                "last_commit": "2025-04-14T15:32:02Z",
-                "owner": "procyon-rs",
-                "repo": "showata",
+                "last_commit": "2026-08-18T23:39:51Z",
+                "owner": "evcxr",
+                "repo": "evcxr",
+                "stars": 6469
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "murarth/rusti",
+              "description": "REPL for the Rust programming language",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 28097592,
+                "language": "Rust",
+                "last_commit": "2019-07-12T17:55:59Z",
+                "owner": "murarth",
+                "repo": "rusti",
+                "stars": 1322
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "emakryo/rustdef",
+              "description": "Jupyter extension for rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236265118,
+                "language": "Python",
+                "last_commit": "2023-03-13T02:57:27Z",
+                "owner": "emakryo",
+                "repo": "rustdef",
                 "stars": 29
               }
             }
           ],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-10T04:34:35Z",
-            "owner": "procyon-rs",
-            "repo": "vega_lite_4.rs",
-            "stars": 31
-          }
+          "description": "can be handled as Jupyter Kernel or REPL. It is helpful for learning and validation.",
+          "node_type": "group",
+          "title": "Jupyter Notebook"
         },
         {
-          "node_type": "item",
-          "title": "saona-raimundo/preexplorer",
-          "description": "Externalize easily the plotting process from Rust to gnuplot.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-10T14:30:36Z",
-            "owner": "saona-raimundo",
-            "repo": "preexplorer",
-            "stars": 5
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tiby312/poloto",
-          "description": "A simple 2D plotting library that outputs graphs to SVG that can be styled using CSS.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2023-03-31T16:15:50Z",
-            "owner": "tiby312",
-            "repo": "poloto",
-            "stars": 1
-          }
-        }
-      ],
-      "title": "Graph Plot"
-    },
-    {
-      "description": "Most things use or .\nAlso, look at . When the size of the matrix is known, it is valid. See also: ndarray vs nalgebra - reddit",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "dimforge/nalgebra",
-          "description": "Linear algebra library for Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-30T06:45:08Z",
-            "owner": "dimforge",
-            "repo": "nalgebra",
-            "stars": 4774
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-ndarray/ndarray",
-          "description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-18T11:53:04Z",
-            "owner": "rust-ndarray",
-            "repo": "ndarray",
-            "stars": 4312
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "PyO3/rust-numpy",
-          "description": "PyO3-based Rust binding of NumPy C-API",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-25T18:41:52Z",
-            "owner": "PyO3",
-            "repo": "rust-numpy",
-            "stars": 1384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bluss/arrayvec",
-          "description": "A vector with a fixed capacity. (Rust)",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-19T14:03:52Z",
-            "owner": "bluss",
-            "repo": "arrayvec",
-            "stars": 894
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "arrayfire/arrayfire-rust",
-          "description": "Rust wrapper for ArrayFire",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-09-24T19:19:45Z",
-            "owner": "arrayfire",
-            "repo": "arrayfire-rust",
-            "stars": 827
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vbarrielle/sprs",
-          "description": "sparse linear algebra library for rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-28T02:25:29Z",
-            "owner": "sparsemat",
-            "repo": "sprs",
-            "stars": 633
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "AtheMathmo/rulinalg",
-          "description": "A linear algebra library written in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-05-18T05:54:08Z",
-            "owner": "AtheMathmo",
-            "repo": "rulinalg",
-            "stars": 292
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "liborty/rstats",
-          "description": "Rust Statistics and Vector Algebra Library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T11:48:53Z",
-            "owner": "liborty",
-            "repo": "rstats",
-            "stars": 54
-          }
-        }
-      ],
-      "title": "Vector"
-    },
-    {
-      "description": "It might want to try for now. looks good too.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "ritchie46/polars",
-          "description": "Rust DataFrame library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T16:29:50Z",
-            "owner": "pola-rs",
-            "repo": "polars",
-            "stars": 39384
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apache/arrow-datafusion",
-          "description": "Apache Arrow DataFusion and Ballista query engines",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T03:25:10Z",
-            "owner": "apache",
-            "repo": "datafusion",
-            "stars": 9161
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "apache/arrow",
-          "description": "In-memory columnar format, in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T01:09:04Z",
-            "owner": "apache",
-            "repo": "arrow-rs",
-            "stars": 3584
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "nevi-me/rust-dataframe",
-          "description": "A Rust DataFrame implementation, built on Apache Arrow",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2020-10-26T17:05:17Z",
-            "owner": "nevi-me",
-            "repo": "rust-dataframe",
-            "stars": 280
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kernelmachine/utah",
-          "description": "Dataframe structure and operations in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2018-07-24T18:22:54Z",
-            "owner": "kernelmachine",
-            "repo": "utah",
-            "stars": 145
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "milesgranger/black-jack",
-          "description": "DataFrame / Series data processing in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-12-28T04:22:08Z",
-            "owner": "milesgranger",
-            "repo": "black-jack",
-            "stars": 31
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sinhrks/brassfibre",
-          "description": "Provides multiple-dtype columner storage, known as DataFrame in pandas/R",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2018-01-04T04:18:11Z",
-            "owner": "sinhrks",
-            "repo": "brassfibre",
-            "stars": 22
-          }
-        }
-      ],
-      "title": "Dataframe"
-    },
-    {
-      "description": "It might want to try for now. Algorithms such as linear transformations are implemented in other libraries as well.",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "image-rs/image",
-          "description": "Encoding and decoding images in Rust",
           "children": [
             {
               "node_type": "item",
-              "title": "image-rs/imageproc",
-              "description": "Image processing operations",
+              "title": "38/plotters",
+              "description": "A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀",
               "children": [],
               "repo_info": {
                 "archived": false,
+                "id": 183275571,
                 "language": "Rust",
-                "last_commit": "2026-07-31T20:54:32Z",
+                "last_commit": "2026-04-13T12:44:14Z",
+                "owner": "plotters-rs",
+                "repo": "plotters",
+                "stars": 4614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "igiagkiozis/plotly",
+              "description": "Plotly for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 236299679,
+                "language": "Rust",
+                "last_commit": "2026-08-03T03:04:58Z",
+                "owner": "plotly",
+                "repo": "plotly.rs",
+                "stars": 1449
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "milliams/plotlib",
+              "description": "Data plotting library for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84477764,
+                "language": "Rust",
+                "last_commit": "2022-12-12T23:02:52Z",
+                "owner": "milliams",
+                "repo": "plotlib",
+                "stars": 468
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SiegeLord/RustGnuplot",
+              "description": "A Rust library for drawing plots, powered by Gnuplot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10575613,
+                "language": "Rust",
+                "last_commit": "2025-12-15T19:19:37Z",
+                "owner": "SiegeLord",
+                "repo": "RustGnuplot",
+                "stars": 430
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "askanium/rustplotlib",
+              "description": "A pure Rust visualization library inspired by D3.js",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 250637403,
+                "language": "Rust",
+                "last_commit": "2023-08-14T19:43:50Z",
+                "owner": "askanium",
+                "repo": "rustplotlib",
+                "stars": 294
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "coder543/dataplotlib",
+              "description": "Scientific plotting library for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 69170814,
+                "language": "Rust",
+                "last_commit": "2017-10-14T03:46:26Z",
+                "owner": "coder543",
+                "repo": "dataplotlib",
+                "stars": 59
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "shahinrostami/chord_rs",
+              "description": "Rust crate for creating beautiful interactive Chord Diagrams. Pro version available at https://m8.fyi/chord",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253901316,
+                "language": "Rust",
+                "last_commit": "2022-12-11T08:43:11Z",
+                "owner": "shahinrostami",
+                "repo": "plotapi_rs",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "procyon-rs/vega_lite_4.rs",
+              "description": "rust api for vega-lite v4",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "procyon-rs/showata",
+                  "description": "A library of to show data (in browser, evcxr_jupyter) as table, chart...",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 163205890,
+                    "language": "Rust",
+                    "last_commit": "2025-04-14T15:32:02Z",
+                    "owner": "procyon-rs",
+                    "repo": "showata",
+                    "stars": 29
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 227661327,
+                "language": "Rust",
+                "last_commit": "2026-08-10T04:34:35Z",
+                "owner": "procyon-rs",
+                "repo": "vega_lite_4.rs",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "saona-raimundo/preexplorer",
+              "description": "Externalize easily the plotting process from Rust to gnuplot.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 216785235,
+                "language": "Rust",
+                "last_commit": "2026-02-10T14:30:36Z",
+                "owner": "saona-raimundo",
+                "repo": "preexplorer",
+                "stars": 5
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tiby312/poloto",
+              "description": "A simple 2D plotting library that outputs graphs to SVG that can be styled using CSS.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 621897439,
+                "language": null,
+                "last_commit": "2023-03-31T16:15:50Z",
+                "owner": "tiby312",
+                "repo": "poloto",
+                "stars": 1
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "loony-bean/textplots-rs",
+              "description": "Terminal plotting library for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134005224,
+                "language": "Rust",
+                "last_commit": "2025-02-20T20:21:51Z",
+                "owner": "loony-bean",
+                "repo": "textplots-rs",
+                "stars": 286
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "orhanbalci/rasciigraph",
+              "description": "Zero dependency Rust crate to make lightweight ASCII line graph ╭┈╯ in command line apps with no other dependencies.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195564778,
+                "language": "Rust",
+                "last_commit": "2025-06-09T05:49:28Z",
+                "owner": "orhanbalci",
+                "repo": "rasciigraph",
+                "stars": 102
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jakobhellermann/piechart",
+              "description": "a rust crate for drawing fancy pie charts in the terminal",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 229823733,
+                "language": "Rust",
+                "last_commit": "2021-12-04T14:06:05Z",
+                "owner": "jakobhellermann",
+                "repo": "piechart",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "milliams/plot",
+              "description": "Command-line plotting tool written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82342161,
+                "language": "Rust",
+                "last_commit": "2017-03-09T20:37:32Z",
+                "owner": "milliams",
+                "repo": "plot",
+                "stars": 26
+              }
+            }
+          ],
+          "description": "It might want to try for now.\nASCII line graph:\nExamples:",
+          "node_type": "group",
+          "title": "Graph Plot"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "dimforge/nalgebra",
+              "description": "Linear algebra library for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10062775,
+                "language": "Rust",
+                "last_commit": "2026-06-30T06:45:08Z",
+                "owner": "dimforge",
+                "repo": "nalgebra",
+                "stars": 4776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-ndarray/ndarray",
+              "description": "ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22598813,
+                "language": "Rust",
+                "last_commit": "2026-07-18T11:53:04Z",
+                "owner": "rust-ndarray",
+                "repo": "ndarray",
+                "stars": 4312
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PyO3/rust-numpy",
+              "description": "PyO3-based Rust binding of NumPy C-API",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88950410,
+                "language": "Rust",
+                "last_commit": "2026-07-25T18:41:52Z",
+                "owner": "PyO3",
+                "repo": "rust-numpy",
+                "stars": 1384
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bluss/arrayvec",
+              "description": "A vector with a fixed capacity. (Rust)",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35889751,
+                "language": "Rust",
+                "last_commit": "2026-07-19T14:03:52Z",
+                "owner": "bluss",
+                "repo": "arrayvec",
+                "stars": 894
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "arrayfire/arrayfire-rust",
+              "description": "Rust wrapper for ArrayFire",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35817370,
+                "language": "Rust",
+                "last_commit": "2023-09-24T19:19:45Z",
+                "owner": "arrayfire",
+                "repo": "arrayfire-rust",
+                "stars": 827
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vbarrielle/sprs",
+              "description": "sparse linear algebra library for rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35778634,
+                "language": "Rust",
+                "last_commit": "2026-07-28T02:25:29Z",
+                "owner": "sparsemat",
+                "repo": "sprs",
+                "stars": 633
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AtheMathmo/rulinalg",
+              "description": "A linear algebra library written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62955795,
+                "language": "Rust",
+                "last_commit": "2022-05-18T05:54:08Z",
+                "owner": "AtheMathmo",
+                "repo": "rulinalg",
+                "stars": 292
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "liborty/rstats",
+              "description": "Rust Statistics and Vector Algebra Library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 291397207,
+                "language": "Rust",
+                "last_commit": "2026-08-15T11:48:53Z",
+                "owner": "liborty",
+                "repo": "rstats",
+                "stars": 54
+              }
+            }
+          ],
+          "description": "Most things use or .\nAlso, look at . When the size of the matrix is known, it is valid. See also: ndarray vs nalgebra - reddit",
+          "node_type": "group",
+          "title": "Vector"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ritchie46/polars",
+              "description": "Rust DataFrame library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 263727855,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:30:48Z",
+                "owner": "pola-rs",
+                "repo": "polars",
+                "stars": 39389
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apache/arrow-datafusion",
+              "description": "Apache Arrow DataFusion and Ballista query engines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 358917318,
+                "language": "Rust",
+                "last_commit": "2026-08-19T08:28:01Z",
+                "owner": "apache",
+                "repo": "datafusion",
+                "stars": 9163
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "apache/arrow",
+              "description": "In-memory columnar format, in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 358917250,
+                "language": "Rust",
+                "last_commit": "2026-08-19T01:09:04Z",
+                "owner": "apache",
+                "repo": "arrow-rs",
+                "stars": 3584
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "nevi-me/rust-dataframe",
+              "description": "A Rust DataFrame implementation, built on Apache Arrow",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 164774992,
+                "language": "Rust",
+                "last_commit": "2020-10-26T17:05:17Z",
+                "owner": "nevi-me",
+                "repo": "rust-dataframe",
+                "stars": 280
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kernelmachine/utah",
+              "description": "Dataframe structure and operations in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68559166,
+                "language": "Rust",
+                "last_commit": "2018-07-24T18:22:54Z",
+                "owner": "kernelmachine",
+                "repo": "utah",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "milesgranger/black-jack",
+              "description": "DataFrame / Series data processing in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 145226906,
+                "language": "Rust",
+                "last_commit": "2022-12-28T04:22:08Z",
+                "owner": "milesgranger",
+                "repo": "black-jack",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sinhrks/brassfibre",
+              "description": "Provides multiple-dtype columner storage, known as DataFrame in pandas/R",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50713622,
+                "language": "Rust",
+                "last_commit": "2018-01-04T04:18:11Z",
+                "owner": "sinhrks",
+                "repo": "brassfibre",
+                "stars": 22
+              }
+            }
+          ],
+          "description": "It might want to try for now. looks good too.",
+          "node_type": "group",
+          "title": "Dataframe"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "image-rs/image",
+              "description": "Encoding and decoding images in Rust",
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "image-rs/imageproc",
+                  "description": "Image processing operations",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 43258349,
+                    "language": "Rust",
+                    "last_commit": "2026-07-31T20:54:32Z",
+                    "owner": "image-rs",
+                    "repo": "imageproc",
+                    "stars": 976
+                  }
+                }
+              ],
+              "repo_info": {
+                "archived": false,
+                "id": 20153092,
+                "language": "Rust",
+                "last_commit": "2026-08-07T19:42:11Z",
                 "owner": "image-rs",
-                "repo": "imageproc",
-                "stars": 976
+                "repo": "image",
+                "stars": 5853
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "twistedfall/opencv-rust",
+              "description": "Rust bindings for OpenCV 3 & 4",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33914894,
+                "language": "Rust",
+                "last_commit": "2026-07-31T06:34:26Z",
+                "owner": "twistedfall",
+                "repo": "opencv-rust",
+                "stars": 2481
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rustgd/cgmath",
+              "description": "A linear algebra and mathematics library for computer graphics.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12371696,
+                "language": "Rust",
+                "last_commit": "2024-12-07T19:29:05Z",
+                "owner": "rustgd",
+                "repo": "cgmath",
+                "stars": 1202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-cv/cv",
+              "description": "Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 253062355,
+                "language": "Rust",
+                "last_commit": "2025-07-22T21:30:28Z",
+                "owner": "rust-cv",
+                "repo": "cv",
+                "stars": 1062
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "atomashpolskiy/rustface",
+              "description": "Face detection library for the Rust programming language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 115044066,
+                "language": "Rust",
+                "last_commit": "2024-04-04T09:23:25Z",
+                "owner": "atomashpolskiy",
+                "repo": "rustface",
+                "stars": 437
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-cv/ndarray-image",
+              "description": "Allows conversion between ndarray's types and image's types",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 202952669,
+                "language": "Rust",
+                "last_commit": "2021-06-26T21:36:04Z",
+                "owner": "rust-cv",
+                "repo": "ndarray-image",
+                "stars": 14
+              }
+            }
+          ],
+          "description": "It might want to try for now. Algorithms such as linear transformations are implemented in other libraries as well.",
+          "node_type": "group",
+          "title": "Image Processing"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Daniel-Liu-c0deb0t/uwu",
+              "description": "fastest text uwuifier in the west",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 348541121,
+                "language": "Rust",
+                "last_commit": "2024-01-02T09:38:37Z",
+                "owner": "Daniel-Liu-c0deb0t",
+                "repo": "uwu",
+                "stars": 1427
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bminixhofer/nnsplit",
+              "description": "Semantic text segmentation. For sentence boundary detection, compound splitting and more.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 237408684,
+                "language": "Python",
+                "last_commit": "2026-08-08T22:46:56Z",
+                "owner": "segment-any-text",
+                "repo": "wtpsplit",
+                "stars": 1330
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "google-research/deduplicate-text-datasets",
+              "description": "This repository contains code to deduplicate language model datasets as descrbed in the paper \"Deduplicating Training Data Makes Language Models Better\" by Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini. This repository contains both the ExactSubstr deduplication implementation (written in Rust) along with the scripts we used in the paper to perform deduplication and inspect the results (written in Python). In an upcoming update, we will add files to reproduce the NearDup-deduplicated versions of the C4, RealNews, LM1B, and Wiki-40B-en datasets.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 386459754,
+                "language": "Rust",
+                "last_commit": "2024-07-30T21:44:50Z",
+                "owner": "google-research",
+                "repo": "deduplicate-text-datasets",
+                "stars": 1269
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pemistahl/lingua-rs",
+              "description": "👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 272948443,
+                "language": "Rust",
+                "last_commit": "2026-03-26T16:03:20Z",
+                "owner": "pemistahl",
+                "repo": "lingua-rs",
+                "stars": 1120
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "greyblake/whatlang-rs",
+              "description": "Natural language detection library for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72954239,
+                "language": "Rust",
+                "last_commit": "2025-12-24T21:40:48Z",
+                "owner": "greyblake",
+                "repo": "whatlang-rs",
+                "stars": 1088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bminixhofer/nlprule",
+              "description": "A fast, low-resource Natural Language Processing and Error Correction library written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 280904831,
+                "language": "Rust",
+                "last_commit": "2023-05-23T00:44:59Z",
+                "owner": "bminixhofer",
+                "repo": "nlprule",
+                "stars": 670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "christophertrml/rs-natural",
+              "description": "Natural Language Processing for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22324009,
+                "language": "Rust",
+                "last_commit": "2023-02-11T03:58:48Z",
+                "owner": "lexi-sh",
+                "repo": "rs-natural",
+                "stars": 235
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rth/vtext",
+              "description": "Simple NLP in Rust with Python bindings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 156188651,
+                "language": "Rust",
+                "last_commit": "2023-07-06T21:58:30Z",
+                "owner": "rth",
+                "repo": "vtext",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CurrySoftware/rust-stemmers",
+              "description": "Common stop words in a variety of languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 81208579,
+                "language": "Rust",
+                "last_commit": "2024-04-27T21:45:49Z",
+                "owner": "CurrySoftware",
+                "repo": "rust-stemmers",
+                "stars": 135
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "finalfusion/finalfrontier",
+              "description": "Context-sensitive word embeddings with subwords. In Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 135802084,
+                "language": "Rust",
+                "last_commit": "2023-10-20T13:06:26Z",
+                "owner": "finalfusion",
+                "repo": "finalfrontier",
+                "stars": 90
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tensordot/syntaxdot",
+              "description": "Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing.",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 302116200,
+                "language": "Rust",
+                "last_commit": "2023-10-22T18:56:06Z",
+                "owner": "tensordot",
+                "repo": "syntaxdot",
+                "stars": 81
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vgel/treebender",
+              "description": "A HDPSG-inspired symbolic natural language parser written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 305200797,
+                "language": "Rust",
+                "last_commit": "2025-03-11T03:16:52Z",
+                "owner": "vgel",
+                "repo": "treebender",
+                "stars": 62
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Freyskeyd/nlp",
+              "description": "Rust-nlp is a library to use Natural Language Processing algorithm with RUST",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45565439,
+                "language": "Rust",
+                "last_commit": "2019-06-18T13:30:29Z",
+                "owner": "Freyskeyd",
+                "repo": "nlp",
+                "stars": 44
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tamuhey/tokenizations",
+              "description": "Robust and Fast tokenizations alignment library for Rust and Python",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 341914194,
+                "language": "Rust",
+                "last_commit": "2021-07-12T14:15:17Z",
+                "owner": "tamuhey",
+                "repo": "tokenizations",
+                "stars": 30
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "stickeritis/sticker",
+              "description": "A LSTM/Transformer/dilated convolution sequence labeler",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 170839025,
+                "language": "Rust",
+                "last_commit": "2021-03-19T10:08:03Z",
+                "owner": "stickeritis",
+                "repo": "sticker",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cmccomb/rust-stop-words",
+              "description": "Common stop words in a variety of languages",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 289415491,
+                "language": "Rust",
+                "last_commit": "2026-02-21T15:29:05Z",
+                "owner": "cmccomb",
+                "repo": "rust-stop-words",
+                "stars": 26
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "usamec/cntk-rs",
+              "description": "Wrapper around Microsoft CNTK library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108751186,
+                "language": "Rust",
+                "last_commit": "2018-03-04T12:55:18Z",
+                "owner": "usamec",
+                "repo": "cntk-rs",
+                "stars": 21
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "reinfer/blingfire-rs",
+              "description": "Rust wrapper for the BlingFire tokenization library",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 195544562,
+                "language": "Rust",
+                "last_commit": "2026-06-23T08:28:08Z",
+                "owner": "reinfer",
+                "repo": "blingfire-rs",
+                "stars": 15
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Natural Language Processing (preprocessing)"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "petgraph/petgraph",
+              "description": "Graph data structure library for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28330263,
+                "language": "Rust",
+                "last_commit": "2026-08-18T17:06:59Z",
+                "owner": "petgraph",
+                "repo": "petgraph",
+                "stars": 3994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "alibaba/GraphScope",
+              "description": "GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 307894865,
+                "language": "C++",
+                "last_commit": "2026-08-04T06:47:25Z",
+                "owner": "alibaba",
+                "repo": "GraphScope",
+                "stars": 3554
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "yamafaktory/hypergraph",
+              "description": "Hypergraph is a data structure library to generate directed hypergraphs",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302162436,
+                "language": "Rust",
+                "last_commit": "2026-05-25T19:30:52Z",
+                "owner": "yamafaktory",
+                "repo": "hypergraph",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "purpleprotocol/graphlib",
+              "description": "Simple but powerful graph library for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 175621410,
+                "language": "Rust",
+                "last_commit": "2023-01-14T18:45:42Z",
+                "owner": "purpleprotocol",
+                "repo": "graphlib",
+                "stars": 196
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "metamolecular/gamma",
+              "description": "A graph library for Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 240530582,
+                "language": "Rust",
+                "last_commit": "2021-01-25T18:43:42Z",
+                "owner": "metamolecular",
+                "repo": "gamma",
+                "stars": 120
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Graphical Modeling"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "datafuselabs/datafuse",
+              "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 302827809,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:03:25Z",
+                "owner": "databendlabs",
+                "repo": "databend",
+                "stars": 9415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "sonos/tract",
+              "description": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99561213,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:03:31Z",
+                "owner": "sonos",
+                "repo": "tract",
+                "stars": 3033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "webonnx/wonnx",
+              "description": "A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 401434309,
+                "language": "Rust",
+                "last_commit": "2024-07-21T14:13:32Z",
+                "owner": "webonnx",
+                "repo": "wonnx",
+                "stars": 1754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "modelfoxdotdev/modelfox",
+              "description": "Modelfox is an all-in-one automated machine learning framework. https://github.com/modelfoxdotdev/modelfox",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 360985455,
+                "language": "Rust",
+                "last_commit": "2024-08-02T17:23:15Z",
+                "owner": "modelfoxdotdev",
+                "repo": "modelfox",
+                "stars": 1467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MegEngine/MegFlow",
+              "description": "Efficient ML solutions for long-tailed demands.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 397162444,
+                "language": "Rust",
+                "last_commit": "2023-05-26T03:18:57Z",
+                "owner": "MegEngine",
+                "repo": "MegFlow",
+                "stars": 403
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "xaynetwork/xaynet",
+              "description": "Xaynet represents an agnostic Federated Machine Learning framework to build privacy-preserving AI applications",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 205122886,
+                "language": "Rust",
+                "last_commit": "2022-08-30T07:37:09Z",
+                "owner": "xaynetwork",
+                "repo": "xaynet",
+                "stars": 202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "vertexclique/orkhon",
+              "description": "Orkhon: ML Inference Framework and Server Runtime",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187414091,
+                "language": "Rust",
+                "last_commit": "2021-02-01T15:23:47Z",
+                "owner": "vertexclique",
+                "repo": "orkhon",
+                "stars": 153
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mstallmo/tensorrt-rs",
+              "description": "Rust library for running TensorRT accelerated deep learning models",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 224505300,
+                "language": "Rust",
+                "last_commit": "2021-10-04T20:43:52Z",
+                "owner": "mstallmo",
+                "repo": "tensorrt-rs",
+                "stars": 70
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ehsanmok/tvm-rust",
+              "description": "Rust bindings for TVM runtime",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 135318745,
+                "language": "Rust",
+                "last_commit": "2019-02-03T07:20:41Z",
+                "owner": "ehsanmok",
+                "repo": "tvm-rust",
+                "stars": 28
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "pipehappy1/tensorboard-rs",
+              "description": "Write TensorBoard events in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 266540792,
+                "language": "Rust",
+                "last_commit": "2022-09-08T01:46:22Z",
+                "owner": "pipehappy1",
+                "repo": "tensorboard-rs",
+                "stars": 12
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Interface & Pipeline & AutoML"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "timberio/vector",
+              "description": "A high-performance, highly reliable, observability data pipeline",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146327667,
+                "language": "Rust",
+                "last_commit": "2026-08-18T21:55:24Z",
+                "owner": "vectordotdev",
+                "repo": "vector",
+                "stars": 22407
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "substantic/rain",
+              "description": "Framework for large distributed pipelines",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 121410309,
+                "language": "Rust",
+                "last_commit": "2023-03-04T01:27:07Z",
+                "owner": "substantic",
+                "repo": "rain",
+                "stars": 760
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Workflow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "EmbarkStudios/rust-gpu",
+              "description": "🐉 Making Rust a first-class language and ecosystem for GPU code 🚧",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 282179811,
+                "language": "Rust",
+                "last_commit": "2025-10-31T14:58:57Z",
+                "owner": "EmbarkStudios",
+                "repo": "rust-gpu",
+                "stars": 7568
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Rust-GPU/Rust-CUDA",
+              "description": "Ecosystem of libraries and tools for writing and executing extremely fast GPU code fully in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 418282394,
+                "language": "Rust",
+                "last_commit": "2026-08-17T03:18:10Z",
+                "owner": "Rust-GPU",
+                "repo": "rust-cuda",
+                "stars": 5321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaikKlein/rlsl",
+              "description": "Rust to SPIR-V compiler",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 101552417,
+                "language": "Rust",
+                "last_commit": "2020-10-22T14:20:45Z",
+                "owner": "MaikKlein",
+                "repo": "rlsl",
+                "stars": 554
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "termoshtt/accel",
+              "description": "GPGPU Framework for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 109124761,
+                "language": "Rust",
+                "last_commit": "2020-09-30T16:29:57Z",
+                "owner": "termoshtt",
+                "repo": "accel",
+                "stars": 445
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "japaric-archived/nvptx",
+              "description": "How to: Run Rust code on your NVIDIA GPU",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 77865034,
+                "language": "Rust",
+                "last_commit": "2018-12-08T22:16:24Z",
+                "owner": "japaric-archived",
+                "repo": "nvptx",
+                "stars": 349
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kmcallister/glassful",
+              "description": "Rust-like syntax for OpenGL Shading Language",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30134724,
+                "language": "Rust",
+                "last_commit": "2017-01-22T02:32:33Z",
+                "owner": "kmcallister",
+                "repo": "glassful",
+                "stars": 178
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "msiglreith/inspirv-rust",
+              "description": "Rust (MIR) → SPIR-V (Shader) compiler",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 68608394,
+                "language": "Rust",
+                "last_commit": "2017-10-15T13:50:16Z",
+                "owner": "msiglreith",
+                "repo": "inspirv-rust",
+                "stars": 59
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "GPU"
+        }
+      ],
+      "title": "Support Tools"
+    },
+    {
+      "description": "All libraries support the following algorithms.\nIt might want to try or for now.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rust-ml/linfa",
+          "description": "A Rust machine learning framework.",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/rust-ml/linfa#current-state",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 128170519,
+                "language": "Rust",
+                "last_commit": "2026-05-30T11:29:40Z",
+                "owner": "rust-ml",
+                "repo": "linfa",
+                "stars": 4730
               }
             }
           ],
           "repo_info": {
             "archived": false,
+            "id": 128170519,
             "language": "Rust",
-            "last_commit": "2026-08-07T19:42:11Z",
-            "owner": "image-rs",
-            "repo": "image",
-            "stars": 5853
+            "last_commit": "2026-05-30T11:29:40Z",
+            "owner": "rust-ml",
+            "repo": "linfa",
+            "stars": 4730
           }
         },
         {
           "node_type": "item",
-          "title": "twistedfall/opencv-rust",
-          "description": "Rust bindings for OpenCV 3 & 4",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-31T06:34:26Z",
-            "owner": "twistedfall",
-            "repo": "opencv-rust",
-            "stars": 2479
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rustgd/cgmath",
-          "description": "A linear algebra and mathematics library for computer graphics.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-12-07T19:29:05Z",
-            "owner": "rustgd",
-            "repo": "cgmath",
-            "stars": 1202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-cv/cv",
-          "description": "Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-07-22T21:30:28Z",
-            "owner": "rust-cv",
-            "repo": "cv",
-            "stars": 1062
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "atomashpolskiy/rustface",
-          "description": "Face detection library for the Rust programming language",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-04-04T09:23:25Z",
-            "owner": "atomashpolskiy",
-            "repo": "rustface",
-            "stars": 437
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-cv/ndarray-image",
-          "description": "Allows conversion between ndarray's types and image's types",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-06-26T21:36:04Z",
-            "owner": "rust-cv",
-            "repo": "ndarray-image",
-            "stars": 14
-          }
-        }
-      ],
-      "title": "Image Processing"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "Daniel-Liu-c0deb0t/uwu",
-          "description": "fastest text uwuifier in the west",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-01-02T09:38:37Z",
-            "owner": "Daniel-Liu-c0deb0t",
-            "repo": "uwu",
-            "stars": 1427
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bminixhofer/nnsplit",
-          "description": "Semantic text segmentation. For sentence boundary detection, compound splitting and more.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Python",
-            "last_commit": "2026-08-08T22:46:56Z",
-            "owner": "segment-any-text",
-            "repo": "wtpsplit",
-            "stars": 1330
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "google-research/deduplicate-text-datasets",
-          "description": "This repository contains code to deduplicate language model datasets as descrbed in the paper \"Deduplicating Training Data Makes Language Models Better\" by Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini. This repository contains both the ExactSubstr deduplication implementation (written in Rust) along with the scripts we used in the paper to perform deduplication and inspect the results (written in Python). In an upcoming update, we will add files to reproduce the NearDup-deduplicated versions of the C4, RealNews, LM1B, and Wiki-40B-en datasets.",
-          "children": [],
+          "title": "AtheMathmo/rusty-machine",
+          "description": "Machine Learning library for Rust",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/AtheMathmo/rusty-machine#machine-learning",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 46163500,
+                "language": "Rust",
+                "last_commit": "2020-07-10T17:17:37Z",
+                "owner": "AtheMathmo",
+                "repo": "rusty-machine",
+                "stars": 1266
+              }
+            }
+          ],
           "repo_info": {
             "archived": true,
+            "id": 46163500,
             "language": "Rust",
-            "last_commit": "2024-07-30T21:44:50Z",
-            "owner": "google-research",
-            "repo": "deduplicate-text-datasets",
-            "stars": 1269
+            "last_commit": "2020-07-10T17:17:37Z",
+            "owner": "AtheMathmo",
+            "repo": "rusty-machine",
+            "stars": 1266
           }
         },
         {
           "node_type": "item",
-          "title": "pemistahl/lingua-rs",
-          "description": "👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike",
+          "title": "smartcorelib/smartcore",
+          "description": "SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 185532731,
             "language": "Rust",
-            "last_commit": "2026-03-26T16:03:20Z",
-            "owner": "pemistahl",
-            "repo": "lingua-rs",
-            "stars": 1120
+            "last_commit": "2026-08-10T18:46:36Z",
+            "owner": "smartcorelib",
+            "repo": "smartcore",
+            "stars": 948
           }
         },
         {
           "node_type": "item",
-          "title": "greyblake/whatlang-rs",
-          "description": "Natural language detection library for Rust.",
+          "title": "maciejkula/rustlearn",
+          "description": "Machine learning crate for Rust",
+          "children": [
+            {
+              "node_type": "item",
+              "title": "https://github.com/maciejkula/rustlearn#features",
+              "description": null,
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47362929,
+                "language": "Rust",
+                "last_commit": "2021-06-07T09:09:59Z",
+                "owner": "maciejkula",
+                "repo": "rustlearn",
+                "stars": 646
+              }
+            }
+          ],
+          "repo_info": {
+            "archived": false,
+            "id": 47362929,
+            "language": "Rust",
+            "last_commit": "2021-06-07T09:09:59Z",
+            "owner": "maciejkula",
+            "repo": "rustlearn",
+            "stars": 646
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "benjarison/eval-metrics",
+          "description": "Evaluation metrics for machine learning",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 265750421,
             "language": "Rust",
-            "last_commit": "2025-12-24T21:40:48Z",
-            "owner": "greyblake",
-            "repo": "whatlang-rs",
-            "stars": 1088
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bminixhofer/nlprule",
-          "description": "A fast, low-resource Natural Language Processing and Error Correction library written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-05-23T00:44:59Z",
-            "owner": "bminixhofer",
-            "repo": "nlprule",
-            "stars": 670
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "christophertrml/rs-natural",
-          "description": "Natural Language Processing for Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-02-11T03:58:48Z",
-            "owner": "lexi-sh",
-            "repo": "rs-natural",
-            "stars": 235
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rth/vtext",
-          "description": "Simple NLP in Rust with Python bindings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-07-06T21:58:30Z",
-            "owner": "rth",
-            "repo": "vtext",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "CurrySoftware/rust-stemmers",
-          "description": "Common stop words in a variety of languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-04-27T21:45:49Z",
-            "owner": "CurrySoftware",
-            "repo": "rust-stemmers",
-            "stars": 135
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "finalfusion/finalfrontier",
-          "description": "Context-sensitive word embeddings with subwords. In Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-10-20T13:06:26Z",
-            "owner": "finalfusion",
-            "repo": "finalfrontier",
-            "stars": 90
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tensordot/syntaxdot",
-          "description": "Neural syntax annotator, supporting sequence labeling, lemmatization, and dependency parsing.",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2023-10-22T18:56:06Z",
-            "owner": "tensordot",
-            "repo": "syntaxdot",
-            "stars": 81
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vgel/treebender",
-          "description": "A HDPSG-inspired symbolic natural language parser written in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-03-11T03:16:52Z",
-            "owner": "vgel",
-            "repo": "treebender",
-            "stars": 62
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Freyskeyd/nlp",
-          "description": "Rust-nlp is a library to use Natural Language Processing algorithm with RUST",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2019-06-18T13:30:29Z",
-            "owner": "Freyskeyd",
-            "repo": "nlp",
-            "stars": 44
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tamuhey/tokenizations",
-          "description": "Robust and Fast tokenizations alignment library for Rust and Python",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-07-12T14:15:17Z",
-            "owner": "tamuhey",
-            "repo": "tokenizations",
-            "stars": 30
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "stickeritis/sticker",
-          "description": "A LSTM/Transformer/dilated convolution sequence labeler",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2021-03-19T10:08:03Z",
-            "owner": "stickeritis",
-            "repo": "sticker",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "cmccomb/rust-stop-words",
-          "description": "Common stop words in a variety of languages",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-21T15:29:05Z",
-            "owner": "cmccomb",
-            "repo": "rust-stop-words",
-            "stars": 26
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "usamec/cntk-rs",
-          "description": "Wrapper around Microsoft CNTK library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2018-03-04T12:55:18Z",
-            "owner": "usamec",
-            "repo": "cntk-rs",
-            "stars": 21
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "reinfer/blingfire-rs",
-          "description": "Rust wrapper for the BlingFire tokenization library",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-23T08:28:08Z",
-            "owner": "reinfer",
-            "repo": "blingfire-rs",
+            "last_commit": "2026-01-14T00:48:02Z",
+            "owner": "benjarison",
+            "repo": "eval-metrics",
             "stars": 15
           }
-        }
-      ],
-      "title": "Natural Language Processing (preprocessing)"
-    },
-    {
-      "description": "",
-      "items": [
+        },
         {
           "node_type": "item",
-          "title": "petgraph/petgraph",
-          "description": "Graph data structure library for Rust.",
+          "title": "mbillingr/openml-rust",
+          "description": "A rust interface to http://openml.org/",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 135195817,
             "language": "Rust",
-            "last_commit": "2026-08-18T17:06:59Z",
-            "owner": "petgraph",
-            "repo": "petgraph",
-            "stars": 3993
+            "last_commit": "2019-07-13T19:06:16Z",
+            "owner": "mbillingr",
+            "repo": "openml-rust",
+            "stars": 12
           }
         },
         {
           "node_type": "item",
-          "title": "alibaba/GraphScope",
-          "description": "GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba",
+          "title": "blue-yonder/vikos",
+          "description": "A machine learning library for supervised training of parametrized models",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 67695889,
+            "language": "Rust",
+            "last_commit": "2021-04-30T15:39:19Z",
+            "owner": "blue-yonder",
+            "repo": "vikos",
+            "stars": 11
+          }
+        }
+      ],
+      "title": "Comprehensive (like sklearn)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "statrs-dev/statrs",
+          "description": "Statistical computation library for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 53645563,
+            "language": "Rust",
+            "last_commit": "2026-08-18T04:24:54Z",
+            "owner": "statrs-dev",
+            "repo": "statrs",
+            "stars": 819
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Axect/Peroxide",
+          "description": "Rust numeric library with R, MATLAB & Python syntax",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 130400565,
+            "language": "Rust",
+            "last_commit": "2026-08-10T02:13:04Z",
+            "owner": "Axect",
+            "repo": "Peroxide",
+            "stars": 724
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tarcieri/micromath",
+          "description": "Embedded Rust arithmetic, 2D/3D vector, and statistics library",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 183882654,
+            "language": "Rust",
+            "last_commit": "2024-09-07T13:13:53Z",
+            "owner": "tarcieri",
+            "repo": "micromath",
+            "stars": 485
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rust-ndarray/ndarray-stats",
+          "description": "Statistical routines for ndarray",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147287005,
+            "language": "Rust",
+            "last_commit": "2025-12-28T21:43:21Z",
+            "owner": "rust-ndarray",
+            "repo": "ndarray-stats",
+            "stars": 237
+          }
+        }
+      ],
+      "title": "Comprehensive (Statistics)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "catboost/catboost",
+          "description": "A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks (predict only)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 97556265,
             "language": "C++",
-            "last_commit": "2026-08-04T06:47:25Z",
-            "owner": "alibaba",
-            "repo": "GraphScope",
-            "stars": 3555
+            "last_commit": "2026-08-19T04:09:33Z",
+            "owner": "catboost",
+            "repo": "catboost",
+            "stars": 9069
           }
         },
         {
           "node_type": "item",
-          "title": "yamafaktory/hypergraph",
-          "description": "Hypergraph is a data structure library to generate directed hypergraphs",
+          "title": "mesalock-linux/gbdt-rs",
+          "description": "MesaTEE GBDT-RS : a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 162353417,
             "language": "Rust",
-            "last_commit": "2026-05-25T19:30:52Z",
-            "owner": "yamafaktory",
-            "repo": "hypergraph",
-            "stars": 351
+            "last_commit": "2025-01-29T18:49:13Z",
+            "owner": "mesalock-linux",
+            "repo": "gbdt-rs",
+            "stars": 225
           }
         },
         {
           "node_type": "item",
-          "title": "purpleprotocol/graphlib",
-          "description": "Simple but powerful graph library for Rust",
+          "title": "davechallis/rust-xgboost",
+          "description": "Rust bindings for XGBoost.",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 133958518,
             "language": "Rust",
-            "last_commit": "2023-01-14T18:45:42Z",
-            "owner": "purpleprotocol",
-            "repo": "graphlib",
-            "stars": 196
+            "last_commit": "2024-04-29T22:59:34Z",
+            "owner": "davechallis",
+            "repo": "rust-xgboost",
+            "stars": 121
           }
         },
         {
           "node_type": "item",
-          "title": "metamolecular/gamma",
-          "description": "A graph library for Rust.",
+          "title": "vaaaaanquish/lightgbm-rs",
+          "description": "LightGBM Rust binding",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 326394024,
             "language": "Rust",
-            "last_commit": "2021-01-25T18:43:42Z",
-            "owner": "metamolecular",
-            "repo": "gamma",
-            "stars": 120
-          }
-        }
-      ],
-      "title": "Graphical Modeling"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "datafuselabs/datafuse",
-          "description": "A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-19T03:12:32Z",
-            "owner": "databendlabs",
-            "repo": "databend",
-            "stars": 9414
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "sonos/tract",
-          "description": "Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T17:55:44Z",
-            "owner": "sonos",
-            "repo": "tract",
-            "stars": 3033
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "webonnx/wonnx",
-          "description": "A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2024-07-21T14:13:32Z",
-            "owner": "webonnx",
-            "repo": "wonnx",
-            "stars": 1754
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "modelfoxdotdev/modelfox",
-          "description": "Modelfox is an all-in-one automated machine learning framework. https://github.com/modelfoxdotdev/modelfox",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-08-02T17:23:15Z",
-            "owner": "modelfoxdotdev",
-            "repo": "modelfox",
-            "stars": 1467
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MegEngine/MegFlow",
-          "description": "Efficient ML solutions for long-tailed demands.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-05-26T03:18:57Z",
-            "owner": "MegEngine",
-            "repo": "MegFlow",
-            "stars": 403
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "xaynetwork/xaynet",
-          "description": "Xaynet represents an agnostic Federated Machine Learning framework to build privacy-preserving AI applications",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2022-08-30T07:37:09Z",
-            "owner": "xaynetwork",
-            "repo": "xaynet",
-            "stars": 202
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vertexclique/orkhon",
-          "description": "Orkhon: ML Inference Framework and Server Runtime",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-02-01T15:23:47Z",
-            "owner": "vertexclique",
-            "repo": "orkhon",
-            "stars": 153
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mstallmo/tensorrt-rs",
-          "description": "Rust library for running TensorRT accelerated deep learning models",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-10-04T20:43:52Z",
-            "owner": "mstallmo",
-            "repo": "tensorrt-rs",
-            "stars": 70
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ehsanmok/tvm-rust",
-          "description": "Rust bindings for TVM runtime",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2019-02-03T07:20:41Z",
-            "owner": "ehsanmok",
-            "repo": "tvm-rust",
-            "stars": 28
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "pipehappy1/tensorboard-rs",
-          "description": "Write TensorBoard events in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2022-09-08T01:46:22Z",
-            "owner": "pipehappy1",
-            "repo": "tensorboard-rs",
-            "stars": 12
-          }
-        }
-      ],
-      "title": "Interface & Pipeline & AutoML"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "timberio/vector",
-          "description": "A high-performance, highly reliable, observability data pipeline",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T21:55:24Z",
-            "owner": "vectordotdev",
-            "repo": "vector",
-            "stars": 22397
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "substantic/rain",
-          "description": "Framework for large distributed pipelines",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-03-04T01:27:07Z",
-            "owner": "substantic",
-            "repo": "rain",
-            "stars": 760
-          }
-        }
-      ],
-      "title": "Workflow"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "EmbarkStudios/rust-gpu",
-          "description": "🐉 Making Rust a first-class language and ecosystem for GPU code 🚧",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2025-10-31T14:58:57Z",
-            "owner": "EmbarkStudios",
-            "repo": "rust-gpu",
-            "stars": 7568
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Rust-GPU/Rust-CUDA",
-          "description": "Ecosystem of libraries and tools for writing and executing extremely fast GPU code fully in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T03:18:10Z",
-            "owner": "Rust-GPU",
-            "repo": "rust-cuda",
-            "stars": 5321
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "MaikKlein/rlsl",
-          "description": "Rust to SPIR-V compiler",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2020-10-22T14:20:45Z",
-            "owner": "MaikKlein",
-            "repo": "rlsl",
-            "stars": 554
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "termoshtt/accel",
-          "description": "GPGPU Framework for Rust",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2020-09-30T16:29:57Z",
-            "owner": "termoshtt",
-            "repo": "accel",
-            "stars": 445
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "japaric-archived/nvptx",
-          "description": "How to: Run Rust code on your NVIDIA GPU",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2018-12-08T22:16:24Z",
-            "owner": "japaric-archived",
-            "repo": "nvptx",
-            "stars": 349
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kmcallister/glassful",
-          "description": "Rust-like syntax for OpenGL Shading Language",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2017-01-22T02:32:33Z",
-            "owner": "kmcallister",
-            "repo": "glassful",
-            "stars": 178
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "msiglreith/inspirv-rust",
-          "description": "Rust (MIR) → SPIR-V (Shader) compiler",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2017-10-15T13:50:16Z",
-            "owner": "msiglreith",
-            "repo": "inspirv-rust",
-            "stars": 59
-          }
-        }
-      ],
-      "title": "GPU"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "meilisearch/MeiliSearch",
-          "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-14T09:38:01Z",
-            "owner": "meilisearch",
-            "repo": "meilisearch",
-            "stars": 59009
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tantivy-search/tantivy",
-          "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T15:59:36Z",
-            "owner": "quickwit-oss",
-            "repo": "tantivy",
-            "stars": 15840
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quickwit-inc/quickwit",
-          "description": "Quickwit is a big data search engine.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T21:29:01Z",
-            "owner": "quickwit-oss",
-            "repo": "quickwit",
-            "stars": 11519
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "toshi-search/Toshi",
-          "description": "A full-text search engine in rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-28T20:36:54Z",
-            "owner": "toshi-search",
-            "repo": "Toshi",
-            "stars": 4257
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "tinysearch/tinysearch",
-          "description": "🔍 Tiny, full-text search engine for static websites built with Rust and Wasm",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-15T16:16:50Z",
-            "owner": "tinysearch",
-            "repo": "tinysearch",
-            "stars": 2956
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "jameslittle230/stork",
-          "description": "🔎 Impossibly fast web search, made for static sites.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-07-01T14:15:45Z",
-            "owner": "jameslittle230",
-            "repo": "stork",
-            "stars": 2758
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "BurntSushi/fst",
-          "description": "Represent large sets and maps compactly with finite state transducers.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-09-25T20:46:04Z",
-            "owner": "BurntSushi",
-            "repo": "fst",
-            "stars": 2113
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "bayard-search/bayard",
-          "description": "A full-text search and indexing server written in Rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-03-06T15:17:06Z",
-            "owner": "mosuka",
-            "repo": "bayard",
-            "stars": 1871
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "elastic/elasticsearch-rs",
-          "description": "Official Elasticsearch Rust Client",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-17T06:11:27Z",
-            "owner": "elastic",
-            "repo": "elasticsearch-rs",
-            "stars": 767
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "https://github.com/andylokandy/simsearch-rs",
-          "description": "A simple and lightweight fuzzy search engine that works in memory, searching for similar strings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-05-06T07:33:10Z",
-            "owner": "andylokandy",
-            "repo": "simsearch",
-            "stars": 191
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "neuml/txtai.rs",
-          "description": "AI-powered search engine for Rust",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-30T20:38:12Z",
-            "owner": "neuml",
-            "repo": "txtai.rs",
-            "stars": 115
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "quantleaf/probly-search",
-          "description": "A lightweight full-text search library that provides full control over the scoring calculations",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-07-03T07:14:53Z",
-            "owner": "quantleaf",
-            "repo": "probly-search",
-            "stars": 74
-          }
-        }
-      ],
-      "title": "Full Text Search"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "qdrant/qdrant",
-          "description": "Qdrant - vector similarity search engine with extended filtering support",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T23:17:51Z",
-            "owner": "qdrant",
-            "repo": "qdrant",
-            "stars": 34052
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "hora-search/hora",
-          "description": "🚀 efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀. horasearch.com",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-02-17T13:34:53Z",
-            "owner": "hora-search",
-            "repo": "hora",
-            "stars": 2661
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "InstantDomain/instant-distance",
-          "description": "Fast approximate nearest neighbor searching in Rust, based on HNSW index",
-          "children": [],
-          "repo_info": {
-            "archived": true,
-            "language": "Rust",
-            "last_commit": "2026-07-21T08:05:50Z",
-            "owner": "djc",
-            "repo": "instant-distance",
-            "stars": 347
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "granne/granne",
-          "description": "Graph-based Approximate Nearest Neighbor Search",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-07-08T15:36:08Z",
-            "owner": "granne",
-            "repo": "granne",
-            "stars": 319
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "mrhooray/kdtree-rs",
-          "description": "K-dimensional tree in Rust for fast geospatial indexing and lookup",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-07-23T21:09:47Z",
-            "owner": "mrhooray",
-            "repo": "kdtree-rs",
-            "stars": 284
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-cv/hnsw",
-          "description": "HNSW ANN from the paper \"Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-08-08T18:26:45Z",
-            "owner": "rust-cv",
-            "repo": "hnsw",
-            "stars": 266
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "Enet4/faiss-rs",
-          "description": "Rust language bindings for Faiss",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-15T11:56:20Z",
-            "owner": "Enet4",
-            "repo": "faiss-rs",
-            "stars": 252
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "ritchie46/lsh-rs",
-          "description": "Locality Sensitive Hashing in Rust with Python bindings",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-04-13T17:21:07Z",
-            "owner": "ritchie46",
-            "repo": "lsh-rs",
-            "stars": 125
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "u1roh/kd-tree",
-          "description": "k-dimensional tree in Rust. Fast, simple, and easy to use.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-11-16T05:21:42Z",
-            "owner": "u1roh",
-            "repo": "kd-tree",
-            "stars": 86
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "lerouxrgd/ngt-rs",
-          "description": "Rust wrappers for NGT approximate nearest neighbor search",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-05-18T11:41:53Z",
-            "owner": "lerouxrgd",
-            "repo": "ngt-rs",
-            "stars": 40
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kornelski/vpsearch",
-          "description": "C library for finding nearest (most similar) element in a set",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2025-10-08T17:44:42Z",
-            "owner": "kornelski",
-            "repo": "vpsearch",
-            "stars": 32
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "fulara/kdtree-rust",
-          "description": "kdtree implementation for rust.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2020-03-24T20:44:41Z",
-            "owner": "fulara",
-            "repo": "kdtree-rust",
-            "stars": 14
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "petabi/petal-neighbors",
-          "description": "Nearest neighbor search algorithms including a ball tree and a vantage point tree.",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-06-16T22:24:34Z",
-            "owner": "petabi",
-            "repo": "petal-neighbors",
-            "stars": 12
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "kampersanda/mih-rs",
-          "description": "Rust implementation of multi-index hashing for neighbor searches on 64-bit codes in the Hamming space",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2024-02-17T09:33:38Z",
-            "owner": "kampersanda",
-            "repo": "mih-rs",
-            "stars": 8
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "rust-cv/hwt",
-          "description": "Hamming Weight Tree from the paper \"Online Nearest Neighbor Search in Hamming Space\"",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2019-05-03T19:19:07Z",
-            "owner": "rust-cv",
-            "repo": "hwt",
-            "stars": 7
-          }
-        }
-      ],
-      "title": "Nearest Neighbor Search"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "rust-unofficial/awesome-rust",
-          "description": ", A curated list of Rust code and resources",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2026-08-18T15:53:34Z",
-            "owner": "rust-unofficial",
-            "repo": "awesome-rust",
-            "stars": 58893
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "e-tony/best-of-ml-rust",
-          "description": ", A ranked list of awesome machine learning Rust libraries",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": null,
-            "last_commit": "2026-08-01T10:47:06Z",
-            "owner": "e-tornike",
-            "repo": "best-of-ml-rust",
-            "stars": 511
-          }
-        }
-      ],
-      "title": "Nearby Projects"
-    },
-    {
-      "description": "",
-      "items": [],
-      "title": "Blogs"
-    },
-    {
-      "description": "",
-      "items": [
-        {
-          "node_type": "item",
-          "title": "epwalsh/rust-dl-webserver - Example of serving deep learning models in Rust with batched prediction",
-          "description": ", 2021/11/16, epwalsh",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-03-09T18:57:16Z",
-            "owner": "epwalsh",
-            "repo": "rust-dl-webserver",
-            "stars": 34
-          }
-        },
-        {
-          "node_type": "item",
-          "title": "vaaaaanquish/rust-machine-learning-api-example - The axum example that uses resnet224 to infer images received in base64 and returns the results.",
-          "description": ", 2021/9/7, vaaaaanquish",
-          "children": [],
-          "repo_info": {
-            "archived": false,
-            "language": "Rust",
-            "last_commit": "2021-09-11T01:44:01Z",
+            "last_commit": "2023-10-31T09:03:31Z",
             "owner": "vaaaaanquish",
-            "repo": "rust-machine-learning-api-example",
+            "repo": "lightgbm-rs",
+            "stars": 79
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Entscheider/stamm",
+          "description": "Generic decision trees for rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106116515,
+            "language": "Rust",
+            "last_commit": "2018-09-02T12:34:20Z",
+            "owner": "Entscheider",
+            "repo": "stamm",
+            "stars": 12
+          }
+        }
+      ],
+      "title": "Gradient Boosting"
+    },
+    {
+      "description": "and are the most common. also has torch vision, which is useful.",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "autumnai/leaf",
+          "description": "Open Machine Intelligence Framework for Hackers. (GPU/CPU)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 44954997,
+            "language": "Rust",
+            "last_commit": "2024-03-20T09:51:14Z",
+            "owner": "autumnai",
+            "repo": "leaf",
+            "stars": 5541
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tensorflow/rust",
+          "description": "Rust language bindings for TensorFlow",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 51115997,
+            "language": "Rust",
+            "last_commit": "2025-01-12T17:43:04Z",
+            "owner": "tensorflow",
+            "repo": "rust",
+            "stars": 5476
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "LaurentMazare/tch-rs",
+          "description": "Rust bindings for the C++ api of PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 171052201,
+            "language": "Rust",
+            "last_commit": "2026-07-17T20:09:52Z",
+            "owner": "LaurentMazare",
+            "repo": "tch-rs",
+            "stars": 5474
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "coreylowman/dfdx",
+          "description": "Strongly typed Deep Learning in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 416162048,
+            "language": "Rust",
+            "last_commit": "2024-07-23T02:05:58Z",
+            "owner": "chelsea0x3b",
+            "repo": "dfdx",
+            "stars": 1929
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "spearow/juice",
+          "description": "The Hacker's Machine Learning Engine",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 78967634,
+            "language": "Rust",
+            "last_commit": "2024-07-22T18:07:55Z",
+            "owner": "fff-rs",
+            "repo": "juice",
+            "stars": 1131
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "neuronika/neuronika",
+          "description": "Tensors and dynamic neural networks in pure Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 338624294,
+            "language": "Rust",
+            "last_commit": "2022-10-10T07:02:35Z",
+            "owner": "neuronika",
+            "repo": "neuronika",
+            "stars": 1086
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "raskr/rust-autograd",
+          "description": "Tensors and differentiable operations (like TensorFlow) in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 102493316,
+            "language": "Rust",
+            "last_commit": "2026-06-02T00:43:58Z",
+            "owner": "raskr",
+            "repo": "rust-autograd",
+            "stars": 502
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "c0dearm/mushin",
+          "description": "Compile-time creation of neural networks",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 355562555,
+            "language": "Rust",
+            "last_commit": "2022-08-27T20:04:36Z",
+            "owner": "c0dearm",
+            "repo": "mushin",
+            "stars": 397
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "charles-r-earp/autograph",
+          "description": "Machine Learning Library for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 192432911,
+            "language": "Rust",
+            "last_commit": "2024-08-19T00:18:17Z",
+            "owner": "charles-r-earp",
+            "repo": "autograph",
+            "stars": 334
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tedsta/deeplearn-rs",
+          "description": "Neural networks in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 45012848,
+            "language": "Rust",
+            "last_commit": "2019-10-30T04:18:48Z",
+            "owner": "tedsta",
+            "repo": "deeplearn-rs",
+            "stars": 210
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "millardjn/rusty_sr",
+          "description": "Deep learning superresolution in pure rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81101550,
+            "language": "Rust",
+            "last_commit": "2021-10-04T10:43:21Z",
+            "owner": "millardjn",
+            "repo": "rusty_sr",
+            "stars": 205
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "bilal2vec/L2",
+          "description": "l2 is a fast, Pytorch-style Tensor+Autograd library written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 193277387,
+            "language": "Rust",
+            "last_commit": "2022-12-25T15:16:55Z",
+            "owner": "bilal2vec",
+            "repo": "L2",
+            "stars": 199
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MikhailKravets/NeuroFlow",
+          "description": "Awesome deep learning crate",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95146282,
+            "language": "Rust",
+            "last_commit": "2023-08-18T07:34:39Z",
+            "owner": "MikhailKravets",
+            "repo": "NeuroFlow",
+            "stars": 122
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "millardjn/alumina",
+          "description": "A deep learning library for rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 81104197,
+            "language": "Rust",
+            "last_commit": "2022-10-23T07:44:15Z",
+            "owner": "millardjn",
+            "repo": "alumina",
+            "stars": 103
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jramapuram/hal",
+          "description": "Rust based Cross-GPU Machine Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39527900,
+            "language": "Rust",
+            "last_commit": "2016-10-22T00:27:46Z",
+            "owner": "jramapuram",
+            "repo": "hal",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jramapuram/hal",
+          "description": "Rust based Cross-GPU Machine Learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 39527900,
+            "language": "Rust",
+            "last_commit": "2016-10-22T00:27:46Z",
+            "owner": "jramapuram",
+            "repo": "hal",
+            "stars": 92
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "JonathanWoollett-Light/cogent",
+          "description": "Simple neural network library for classification written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 211749914,
+            "language": "Rust",
+            "last_commit": "2022-06-08T22:57:23Z",
+            "owner": "JonathanWoollett-Light",
+            "repo": "cogent",
+            "stars": 46
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "VasanthakumarV/einops",
+          "description": "Simplistic API for deep learning tensor operations",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 350445590,
+            "language": "Rust",
+            "last_commit": "2026-06-22T00:15:09Z",
+            "owner": "VasanthakumarV",
+            "repo": "einops",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "primitiv/primitiv-rust",
+          "description": "Rust binding of primitiv",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 112536009,
+            "language": "Rust",
+            "last_commit": "2018-06-03T18:44:22Z",
+            "owner": "primitiv",
+            "repo": "primitiv-rust",
+            "stars": 20
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sakex/neat-gru-rust",
+          "description": "neat-gru",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 320375921,
+            "language": "Rust",
+            "last_commit": "2023-03-07T20:18:54Z",
+            "owner": "sakex",
+            "repo": "neat-gru-rust",
             "stars": 19
           }
         },
         {
           "node_type": "item",
-          "title": "Rust ANN search Example - Image search example by approximate nearest-neighbor library In Rust",
-          "description": ", 2021/8/15, vaaaaanquish",
+          "title": "afck/fann-rs",
+          "description": "Rust wrapper for the Fast Artificial Neural Network library",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 38120135,
             "language": "Rust",
-            "last_commit": "2021-08-09T20:08:18Z",
-            "owner": "vaaaaanquish",
-            "repo": "rust-ann-search-example",
-            "stars": 17
+            "last_commit": "2024-02-02T14:19:05Z",
+            "owner": "afck",
+            "repo": "fann-rs",
+            "stars": 16
           }
         },
         {
           "node_type": "item",
-          "title": "dzamkov/deep-learning-test - Implementing deep learning in Rust using just a linear algebra library (nalgebra)",
-          "description": ", 2021/8/30, dzamkov",
+          "title": "oliverfunk/darknet-rs",
+          "description": "Rust bindings for darknet",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 153648032,
             "language": "Rust",
-            "last_commit": "2021-08-29T19:19:41Z",
-            "owner": "dzamkov",
-            "repo": "deep-learning-test",
-            "stars": 11
+            "last_commit": "2019-08-12T11:35:40Z",
+            "owner": "oliverfunk",
+            "repo": "darknet-rs",
+            "stars": 8
           }
         },
         {
           "node_type": "item",
-          "title": "tch-rs pretrain example - Docker for PyTorch rust bindings tch-rs. Example of pretrain model",
-          "description": ", 2021/8/15, vaaaaanquish",
+          "title": "dvigneshwer/deeprust",
+          "description": "Machine learning crate in Rust",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 134928638,
             "language": "Rust",
-            "last_commit": "2021-08-07T18:07:20Z",
-            "owner": "vaaaaanquish",
-            "repo": "tch-rs-pretrain-example-docker",
-            "stars": 9
+            "last_commit": "2018-05-27T16:48:36Z",
+            "owner": "dvigneshwer",
+            "repo": "deeprust",
+            "stars": 8
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jakelee8/mxnet-rs",
+          "description": "mxnet for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 66867970,
+            "language": "Rust",
+            "last_commit": "2016-08-31T02:08:59Z",
+            "owner": "jakelee8",
+            "repo": "mxnet-rs",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Wuelle/deep_thought",
+          "description": "Neural Networks in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 374435757,
+            "language": "Rust",
+            "last_commit": "2022-02-09T14:13:22Z",
+            "owner": "simonwuelker",
+            "repo": "deep_thought",
+            "stars": 6
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chantera/dynet-rs",
+          "description": "The Rust Language Bindings for DyNet",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 107310626,
+            "language": "Rust",
+            "last_commit": "2017-10-24T10:07:22Z",
+            "owner": "chantera",
+            "repo": "dynet-rs",
+            "stars": 3
           }
         }
       ],
-      "title": "Apply"
+      "title": "Deep Neural Network"
     },
     {
-      "description": "",
+      "description": null,
       "items": [
         {
           "node_type": "item",
-          "title": "Serving TensorFlow with Actix-Web",
-          "description": ", kykosic/actix-tensorflow-example",
+          "title": "Synerise/cleora",
+          "description": "Cleora AI is a general-purpose model for efficient, scalable learning of stable and inductive entity embeddings for heterogeneous relational data.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Rust",
-            "last_commit": "2023-03-25T01:04:13Z",
-            "owner": "kykosic",
-            "repo": "actix-tensorflow-example",
-            "stars": 50
+            "id": 310368642,
+            "language": "Jupyter Notebook",
+            "last_commit": "2026-04-02T15:27:59Z",
+            "owner": "BaseModelAI",
+            "repo": "cleora",
+            "stars": 541
           }
         },
         {
           "node_type": "item",
-          "title": "Masked Language Model on Wasm, BERT on flontend examples",
-          "description": ", optim-corp/masked-lm-wasm, 2021/8/27, Optim",
+          "title": "Pardoxa/net_ensembles",
+          "description": "Rust library for random graph ensembles",
           "children": [],
           "repo_info": {
             "archived": false,
+            "id": 249018502,
             "language": "Rust",
-            "last_commit": "2022-06-06T05:38:15Z",
-            "owner": "optim-corp",
-            "repo": "masked-lm-wasm",
+            "last_commit": "2023-01-12T12:02:39Z",
+            "owner": "Pardoxa",
+            "repo": "net_ensembles",
+            "stars": 4
+          }
+        }
+      ],
+      "title": "Graph Model"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "huggingface/tokenizers",
+          "description": "The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 219035799,
+            "language": "Rust",
+            "last_commit": "2026-08-19T07:55:04Z",
+            "owner": "huggingface",
+            "repo": "tokenizers",
+            "stars": 10979
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guillaume-be/rust-bert",
+          "description": "Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 236150741,
+            "language": "Rust",
+            "last_commit": "2026-01-13T19:54:39Z",
+            "owner": "guillaume-be",
+            "repo": "rust-bert",
+            "stars": 3077
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "guillaume-be/rust-tokenizers",
+          "description": "Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 220668276,
+            "language": "Rust",
+            "last_commit": "2026-01-22T20:30:14Z",
+            "owner": "guillaume-be",
+            "repo": "rust-tokenizers",
+            "stars": 343
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "cpcdoy/rust-sbert",
+          "description": "Rust port of sentence-transformers (https://github.com/UKPLab/sentence-transformers)",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 257020209,
+            "language": "Rust",
+            "last_commit": "2024-09-17T11:00:59Z",
+            "owner": "cpcdoy",
+            "repo": "rust-sbert",
+            "stars": 127
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "mklf/word2vec-rs",
+          "description": "pure rust implementation of word2vec",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 73491701,
+            "language": "Rust",
+            "last_commit": "2023-05-08T18:57:56Z",
+            "owner": "mklf",
+            "repo": "word2vec-rs",
+            "stars": 88
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "messense/fasttext-rs",
+          "description": "fastText Rust binding",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 117930760,
+            "language": "Rust",
+            "last_commit": "2026-04-18T01:18:14Z",
+            "owner": "messense",
+            "repo": "fasttext-rs",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vongaisberg/gpt3_macro",
+          "description": "Rust macro that uses GPT3 codex to generate code at compiletime",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 440678308,
+            "language": "Rust",
+            "last_commit": "2021-12-23T13:46:58Z",
+            "owner": "vongaisberg",
+            "repo": "gpt3_macro",
+            "stars": 68
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "DimaKudosh/word2vec",
+          "description": "Rust interface to word2vec.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50609499,
+            "language": "Rust",
+            "last_commit": "2019-11-04T15:30:36Z",
+            "owner": "DimaKudosh",
+            "repo": "word2vec",
+            "stars": 32
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sno2/bertml",
+          "description": "Use common pre-trained ML models in Deno!",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 428096271,
+            "language": "TypeScript",
+            "last_commit": "2021-11-21T06:49:58Z",
+            "owner": "sno2",
+            "repo": "bertml",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "proycon/deepfrog",
+          "description": "An NLP-suite powered by deep learning",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240007492,
+            "language": "Rust",
+            "last_commit": "2023-03-24T23:53:13Z",
+            "owner": "proycon",
+            "repo": "deepfrog",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ferristseng/rust-tfidf",
+          "description": "Library to calculate TF-IDF",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 33905012,
+            "language": "Rust",
+            "last_commit": "2023-06-15T14:33:59Z",
+            "owner": "ferristseng",
+            "repo": "rust-tfidf",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lloydmeta/sloword2vec-rs",
+          "description": "A naive (read: slow) implementation of Word2Vec. Uses BLAS behind the scenes for speed.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 101611632,
+            "language": "Rust",
+            "last_commit": "2017-09-06T07:57:12Z",
+            "owner": "lloydmeta",
+            "repo": "sloword2vec-rs",
+            "stars": 2
+          }
+        }
+      ],
+      "title": "Natural Language Processing (model)"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "PersiaML/PERSIA",
+          "description": "High performance distributed framework for training deep learning recommendation models based on PyTorch.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 379902707,
+            "language": "Rust",
+            "last_commit": "2026-08-11T19:12:56Z",
+            "owner": "PersiaML",
+            "repo": "PERSIA",
+            "stars": 413
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "outbrain/fwumious_wabbit",
+          "description": "Fwumious Wabbit, fast on-line machine learning toolkit written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 295415359,
+            "language": "Rust",
+            "last_commit": "2024-06-20T09:21:56Z",
+            "owner": "outbrain-inc",
+            "repo": "fwumious_wabbit",
+            "stars": 139
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "maciejkula/sbr-rs",
+          "description": "Deep recommender systems for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 134455193,
+            "language": "Rust",
+            "last_commit": "2019-05-23T04:30:29Z",
+            "owner": "maciejkula",
+            "repo": "sbr-rs",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "jackgerrits/vowpalwabbit-rs",
+          "description": "🦀🐇 Rusty VowpalWabbit",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 189744550,
+            "language": "Rust",
+            "last_commit": "2022-12-16T01:11:12Z",
+            "owner": "jackgerrits",
+            "repo": "vowpalwabbit-rs",
+            "stars": 12
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "chrisvittal/quackin",
+          "description": "A recommender systems framework for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 91630401,
+            "language": "Rust",
+            "last_commit": "2017-05-15T22:20:39Z",
+            "owner": "chrisvittal",
+            "repo": "quackin",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "hja22/rucommender",
+          "description": "Rust implementation of user-based collaborative filtering",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 128666569,
+            "language": "Rust",
+            "last_commit": "2018-09-15T11:11:16Z",
+            "owner": "hja22",
+            "repo": "rucommender",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "snd/onmf",
+          "description": "fast rust implementation of online nonnegative matrix factorization as laid out in the paper \"detect and track latent factors with online nonnegative matrix factorization\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 49266145,
+            "language": "Rust",
+            "last_commit": "2016-03-13T22:23:41Z",
+            "owner": "snd",
+            "repo": "onmf",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rhysnewell/nymph",
+          "description": "Non-Negative Matrix Factorization in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 240635160,
+            "language": "Rust",
+            "last_commit": "2020-03-19T23:11:12Z",
+            "owner": "rhysnewell",
+            "repo": "nymph",
+            "stars": 0
+          }
+        }
+      ],
+      "title": "Recommendation"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "meilisearch/MeiliSearch",
+              "description": "Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 130688011,
+                "language": "Rust",
+                "last_commit": "2026-08-14T09:38:01Z",
+                "owner": "meilisearch",
+                "repo": "meilisearch",
+                "stars": 59013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tantivy-search/tantivy",
+              "description": "Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49412556,
+                "language": "Rust",
+                "last_commit": "2026-08-19T10:05:14Z",
+                "owner": "quickwit-oss",
+                "repo": "tantivy",
+                "stars": 15859
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quickwit-inc/quickwit",
+              "description": "Quickwit is a big data search engine.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 357707809,
+                "language": "Rust",
+                "last_commit": "2026-08-19T07:50:23Z",
+                "owner": "quickwit-oss",
+                "repo": "quickwit",
+                "stars": 11521
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "toshi-search/Toshi",
+              "description": "A full-text search engine in rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 139021428,
+                "language": "Rust",
+                "last_commit": "2026-06-28T20:36:54Z",
+                "owner": "toshi-search",
+                "repo": "Toshi",
+                "stars": 4257
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "tinysearch/tinysearch",
+              "description": "🔍 Tiny, full-text search engine for static websites built with Rust and Wasm",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119272629,
+                "language": "Rust",
+                "last_commit": "2026-08-15T16:16:50Z",
+                "owner": "tinysearch",
+                "repo": "tinysearch",
+                "stars": 2956
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "jameslittle230/stork",
+              "description": "🔎 Impossibly fast web search, made for static sites.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 223006999,
+                "language": "Rust",
+                "last_commit": "2023-07-01T14:15:45Z",
+                "owner": "jameslittle230",
+                "repo": "stork",
+                "stars": 2758
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BurntSushi/fst",
+              "description": "Represent large sets and maps compactly with finite state transducers.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41943138,
+                "language": "Rust",
+                "last_commit": "2024-09-25T20:46:04Z",
+                "owner": "BurntSushi",
+                "repo": "fst",
+                "stars": 2113
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "bayard-search/bayard",
+              "description": "A full-text search and indexing server written in Rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 218959323,
+                "language": "Rust",
+                "last_commit": "2023-03-06T15:17:06Z",
+                "owner": "mosuka",
+                "repo": "bayard",
+                "stars": 1871
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "elastic/elasticsearch-rs",
+              "description": "Official Elasticsearch Rust Client",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 192310039,
+                "language": "Rust",
+                "last_commit": "2026-08-17T06:11:27Z",
+                "owner": "elastic",
+                "repo": "elasticsearch-rs",
+                "stars": 767
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "https://github.com/andylokandy/simsearch-rs",
+              "description": "A simple and lightweight fuzzy search engine that works in memory, searching for similar strings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 181518065,
+                "language": "Rust",
+                "last_commit": "2026-05-06T07:33:10Z",
+                "owner": "andylokandy",
+                "repo": "simsearch",
+                "stars": 191
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "neuml/txtai.rs",
+              "description": "AI-powered search engine for Rust",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 322110061,
+                "language": "Rust",
+                "last_commit": "2026-07-30T20:38:12Z",
+                "owner": "neuml",
+                "repo": "txtai.rs",
+                "stars": 115
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "quantleaf/probly-search",
+              "description": "A lightweight full-text search library that provides full control over the scoring calculations",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 374163698,
+                "language": "Rust",
+                "last_commit": "2024-07-03T07:14:53Z",
+                "owner": "quantleaf",
+                "repo": "probly-search",
+                "stars": 74
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Full Text Search"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "qdrant/qdrant",
+              "description": "Qdrant - vector similarity search engine with extended filtering support",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 268163609,
+                "language": "Rust",
+                "last_commit": "2026-08-19T12:05:30Z",
+                "owner": "qdrant",
+                "repo": "qdrant",
+                "stars": 34062
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "hora-search/hora",
+              "description": "🚀 efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀. horasearch.com",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 367571115,
+                "language": "Rust",
+                "last_commit": "2026-02-17T13:34:53Z",
+                "owner": "hora-search",
+                "repo": "hora",
+                "stars": 2661
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InstantDomain/instant-distance",
+              "description": "Fast approximate nearest neighbor searching in Rust, based on HNSW index",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 321386930,
+                "language": "Rust",
+                "last_commit": "2026-07-21T08:05:50Z",
+                "owner": "djc",
+                "repo": "instant-distance",
+                "stars": 347
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "granne/granne",
+              "description": "Graph-based Approximate Nearest Neighbor Search",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 226289498,
+                "language": "Rust",
+                "last_commit": "2024-07-08T15:36:08Z",
+                "owner": "granne",
+                "repo": "granne",
+                "stars": 319
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "mrhooray/kdtree-rs",
+              "description": "K-dimensional tree in Rust for fast geospatial indexing and lookup",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39874848,
+                "language": "Rust",
+                "last_commit": "2026-07-23T21:09:47Z",
+                "owner": "mrhooray",
+                "repo": "kdtree-rs",
+                "stars": 284
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-cv/hnsw",
+              "description": "HNSW ANN from the paper \"Efficient and robust approximate nearest neighbor search using Hierarchical Navigable Small World graphs\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 198009353,
+                "language": "Rust",
+                "last_commit": "2025-08-08T18:26:45Z",
+                "owner": "rust-cv",
+                "repo": "hnsw",
+                "stars": 266
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Enet4/faiss-rs",
+              "description": "Rust language bindings for Faiss",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 119205516,
+                "language": "Rust",
+                "last_commit": "2025-11-15T11:56:20Z",
+                "owner": "Enet4",
+                "repo": "faiss-rs",
+                "stars": 252
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ritchie46/lsh-rs",
+              "description": "Locality Sensitive Hashing in Rust with Python bindings",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 245437706,
+                "language": "Rust",
+                "last_commit": "2026-04-13T17:21:07Z",
+                "owner": "ritchie46",
+                "repo": "lsh-rs",
+                "stars": 125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "u1roh/kd-tree",
+              "description": "k-dimensional tree in Rust. Fast, simple, and easy to use.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 312585118,
+                "language": "Rust",
+                "last_commit": "2025-11-16T05:21:42Z",
+                "owner": "u1roh",
+                "repo": "kd-tree",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "lerouxrgd/ngt-rs",
+              "description": "Rust wrappers for NGT approximate nearest neighbor search",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 259139692,
+                "language": "Rust",
+                "last_commit": "2024-05-18T11:41:53Z",
+                "owner": "lerouxrgd",
+                "repo": "ngt-rs",
+                "stars": 40
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kornelski/vpsearch",
+              "description": "C library for finding nearest (most similar) element in a set",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36980272,
+                "language": "Rust",
+                "last_commit": "2025-10-08T17:44:42Z",
+                "owner": "kornelski",
+                "repo": "vpsearch",
+                "stars": 32
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fulara/kdtree-rust",
+              "description": "kdtree implementation for rust.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77217112,
+                "language": "Rust",
+                "last_commit": "2020-03-24T20:44:41Z",
+                "owner": "fulara",
+                "repo": "kdtree-rust",
+                "stars": 14
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "petabi/petal-neighbors",
+              "description": "Nearest neighbor search algorithms including a ball tree and a vantage point tree.",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 190314540,
+                "language": "Rust",
+                "last_commit": "2026-06-16T22:24:34Z",
+                "owner": "petabi",
+                "repo": "petal-neighbors",
+                "stars": 12
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "kampersanda/mih-rs",
+              "description": "Rust implementation of multi-index hashing for neighbor searches on 64-bit codes in the Hamming space",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 273724564,
+                "language": "Rust",
+                "last_commit": "2024-02-17T09:33:38Z",
+                "owner": "kampersanda",
+                "repo": "mih-rs",
+                "stars": 8
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "rust-cv/hwt",
+              "description": "Hamming Weight Tree from the paper \"Online Nearest Neighbor Search in Hamming Space\"",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 171763489,
+                "language": "Rust",
+                "last_commit": "2019-05-03T19:19:07Z",
+                "owner": "rust-cv",
+                "repo": "hwt",
+                "stars": 7
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nearest Neighbor Search"
+        }
+      ],
+      "title": "Information Retrieval"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tspooner/rsrl",
+          "description": "A fast, safe and easy to use reinforcement learning framework in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 86597915,
+            "language": "Rust",
+            "last_commit": "2021-11-16T10:40:23Z",
+            "owner": "tspooner",
+            "repo": "rsrl",
+            "stars": 206
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "milanboers/rurel",
+          "description": "Flexible, reusable reinforcement learning (Q learning) implementation in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 83959472,
+            "language": "Rust",
+            "last_commit": "2024-06-25T08:45:48Z",
+            "owner": "milanboers",
+            "repo": "rurel",
+            "stars": 164
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "MrRobb/gym-rs",
+          "description": "OpenAI Gym bindings for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 203469392,
+            "language": "Rust",
+            "last_commit": "2022-11-16T19:03:18Z",
+            "owner": "MrRobb",
+            "repo": "gym-rs",
+            "stars": 70
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Ragnaroek/bandit",
+          "description": "Bandit Algorithms in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116184846,
+            "language": "Rust",
+            "last_commit": "2025-02-28T07:09:06Z",
+            "owner": "Ragnaroek",
+            "repo": "bandit",
+            "stars": 35
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NivenT/REnforce",
+          "description": "Reinforcement learning library written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 69326388,
+            "language": "Rust",
+            "last_commit": "2017-08-03T08:09:34Z",
+            "owner": "NivenT",
+            "repo": "REnforce",
+            "stars": 24
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "edlanglois/relearn",
+          "description": "Reinforcement learning with Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 414679051,
+            "language": "Rust",
+            "last_commit": "2022-07-31T19:46:56Z",
+            "owner": "edlanglois",
+            "repo": "relearn",
+            "stars": 14
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "taku-y/border",
+          "description": "Border is a reinforcement learning library in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 558837720,
+            "language": "Rust",
+            "last_commit": "2026-08-02T05:51:05Z",
+            "owner": "taku-y",
+            "repo": "border",
+            "stars": 5
+          }
+        }
+      ],
+      "title": "Reinforcement Learning"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "tomtung/omikuji",
+          "description": "An efficient implementation of Partitioned Label Trees & its variations for extreme multi-label classification",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 163709649,
+            "language": "Rust",
+            "last_commit": "2026-08-19T07:46:24Z",
+            "owner": "NatLibFi",
+            "repo": "omikuji",
+            "stars": 93
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ralfbiedert/ffsvm-rust",
+          "description": "FFSVM stands for \"Really Fast Support Vector Machine\"",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113766927,
+            "language": "Rust",
+            "last_commit": "2024-12-14T16:04:25Z",
+            "owner": "ralfbiedert",
+            "repo": "ffsvm",
+            "stars": 78
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "messense/crfsuite-rs",
+          "description": "Rust binding to crfsuite",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 116358656,
+            "language": "Rust",
+            "last_commit": "2026-01-31T01:45:17Z",
+            "owner": "messense",
+            "repo": "crfsuite-rs",
             "stars": 25
           }
         },
         {
           "node_type": "item",
-          "title": "Serving PyTorch with Actix-Web",
-          "description": ", kykosic/actix-pytorch-example",
+          "title": "zenoxygen/bayespam",
+          "description": "A simple bayesian spam classifier written in Rust.",
           "children": [],
           "repo_info": {
             "archived": false,
-            "language": "Python",
-            "last_commit": "2021-08-15T18:16:06Z",
-            "owner": "kykosic",
-            "repo": "actix-pytorch-example",
-            "stars": 17
+            "id": 217811440,
+            "language": "Rust",
+            "last_commit": "2025-10-02T18:42:02Z",
+            "owner": "thomasdidion",
+            "repo": "bayespam",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "tomtung/craftml-rs",
+          "description": "A Rust🦀 implementation of CRAFTML, an Efficient Clustering-based Random Forest for Extreme Multi-label Learning",
+          "children": [],
+          "repo_info": {
+            "archived": true,
+            "id": 151738322,
+            "language": "Rust",
+            "last_commit": "2019-03-19T03:46:15Z",
+            "owner": "tomtung",
+            "repo": "craftml-rs",
+            "stars": 15
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sile/randomforest",
+          "description": "A random forest implementation in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 293284787,
+            "language": "Rust",
+            "last_commit": "2026-05-21T14:14:01Z",
+            "owner": "sile",
+            "repo": "randomforest",
+            "stars": 11
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "shadeMe/liblinear-rs",
+          "description": "Rust language bindings for the LIBLINEAR C/C++ library.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 151246565,
+            "language": "Rust",
+            "last_commit": "2023-04-02T21:24:22Z",
+            "owner": "shadeMe",
+            "repo": "liblinear-rs",
+            "stars": 10
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nkaush/naive-bayes-rs",
+          "description": "A Rust library with homemade machine learning models to classify the MNIST dataset. Built in an attempt to get familiar with advanced Rust concepts.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 364372851,
+            "language": "Rust",
+            "last_commit": "2021-05-28T19:37:23Z",
+            "owner": "nkaush",
+            "repo": "naive-bayes-rs",
+            "stars": 0
           }
         }
       ],
-      "title": "Case study"
+      "title": "Supervised Learning Model"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "milesgranger/gap_statistic",
+          "description": "Dynamically get the suggested clusters in the data for unsupervised learning.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 57036078,
+            "language": "Rust",
+            "last_commit": "2024-07-31T13:08:38Z",
+            "owner": "milesgranger",
+            "repo": "gap_statistic",
+            "stars": 230
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "diffeo/kodama",
+          "description": "Fast hierarchical agglomerative clustering in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 99520676,
+            "language": "Rust",
+            "last_commit": "2025-04-09T23:22:34Z",
+            "owner": "diffeo",
+            "repo": "kodama",
+            "stars": 106
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "frjnn/bhtsne",
+          "description": "Barnes-Hut t-SNE implementation written in Rust.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 289305527,
+            "language": "Rust",
+            "last_commit": "2026-07-23T09:40:02Z",
+            "owner": "frjnn",
+            "repo": "bhtsne",
+            "stars": 95
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "petabi/petal-clustering",
+          "description": "DBSCAN and OPTICS clustering algorithms.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 190630783,
+            "language": "Rust",
+            "last_commit": "2026-06-16T22:34:46Z",
+            "owner": "petabi",
+            "repo": "petal-clustering",
+            "stars": 45
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "avinashshenoy97/RusticSOM",
+          "description": "Rust library for Self Organising Maps (SOM).",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 123767744,
+            "language": "Rust",
+            "last_commit": "2022-10-15T10:49:14Z",
+            "owner": "avinashshenoy97",
+            "repo": "RusticSOM",
+            "stars": 36
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "kno10/rust-kmedoids",
+          "description": "k-Medoids clustering in Rust with the FasterPAM algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 323714318,
+            "language": "Rust",
+            "last_commit": "2026-05-22T10:53:33Z",
+            "owner": "kno10",
+            "repo": "rust-kmedoids",
+            "stars": 30
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "nmandery/extended-isolation-forest",
+          "description": "Rust port of the extended isolation forest algorithm for anomaly detection",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 332529973,
+            "language": "Rust",
+            "last_commit": "2023-04-26T18:16:25Z",
+            "owner": "nmandery",
+            "repo": "extended-isolation-forest",
+            "stars": 19
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "genbattle/rkm",
+          "description": "Generic k-means implementation written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 121358333,
+            "language": "Rust",
+            "last_commit": "2020-02-05T05:08:51Z",
+            "owner": "genbattle",
+            "repo": "rkm",
+            "stars": 16
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "lazear/dbscan",
+          "description": "Dependency free implementation of DBSCAN clustering in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 148679799,
+            "language": "Rust",
+            "last_commit": "2023-04-06T16:50:33Z",
+            "owner": "lazear",
+            "repo": "dbscan",
+            "stars": 13
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "whizsid/kddbscan-rs",
+          "description": "A rust library inspired by kDDBSCAN clustering algorithm",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 268095427,
+            "language": "Rust",
+            "last_commit": "2020-06-13T15:19:37Z",
+            "owner": "whizsid",
+            "repo": "kddbscan-rs",
+            "stars": 5
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "vaaaaanquish/label-propagation-rs",
+          "description": "Label Propagation Algorithm by Rust. Label propagation (LP) is graph-based semi-supervised learning (SSL). LGC and CAMLP have been implemented.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 398284485,
+            "language": "Rust",
+            "last_commit": "2021-08-26T20:27:15Z",
+            "owner": "vaaaaanquish",
+            "repo": "label-propagation-rs",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "savish/dbscan",
+          "description": "A naive DBSCAN implementation in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 139456872,
+            "language": "Rust",
+            "last_commit": "2022-12-23T18:06:27Z",
+            "owner": "savish",
+            "repo": "dbscan",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "selforgmap/som-rust",
+          "description": "Self Organizing Map (SOM) is a type of Artificial Neural Network (ANN) that is trained using an unsupervised, competitive learning to produce a low dimensional, discretized representation (feature map) of higher dimensional data.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 147207423,
+            "language": "Rust",
+            "last_commit": "2019-02-24T10:52:27Z",
+            "owner": "selforgmap",
+            "repo": "som-rust",
+            "stars": 4
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "gu18168/DBSCANSD",
+          "description": "Rust implementation for DBSCANSD, a trajectory clustering algorithm.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 172460191,
+            "language": "Rust",
+            "last_commit": "2019-04-11T03:14:37Z",
+            "owner": "gu18168",
+            "repo": "DBSCANSD",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Sauro98/appr_dbscan_rust",
+          "description": "Program implementing the approximate version of DBSCAN introduced by Gan and Tao",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 287691248,
+            "language": "Rust",
+            "last_commit": "2023-05-01T09:32:44Z",
+            "owner": "Sauro98",
+            "repo": "appr_dbscan_rust",
+            "stars": 2
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "quietlychris/density_clusters",
+          "description": "A naive density-based clustering algorithm written in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 248568741,
+            "language": "Rust",
+            "last_commit": "2020-03-19T17:50:21Z",
+            "owner": "quietlychris",
+            "repo": "density_clusters",
+            "stars": 1
+          }
+        }
+      ],
+      "title": "Unsupervised Learning & Clustering Model"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "rbagd/rust-linearkalman",
+          "description": "Kalman filtering and smoothing in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 79480014,
+            "language": "Rust",
+            "last_commit": "2017-02-08T18:16:55Z",
+            "owner": "rbagd",
+            "repo": "rust-linearkalman",
+            "stars": 42
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "krfricke/arima",
+          "description": "ARIMA modelling for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 216203627,
+            "language": "Rust",
+            "last_commit": "2023-11-22T15:05:55Z",
+            "owner": "krfricke",
+            "repo": "arima",
+            "stars": 41
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sanity/pair_adjacent_violators",
+          "description": "An implementation of the Pair Adjacent Violators algorithm for isotonic regression in Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 341576139,
+            "language": "Rust",
+            "last_commit": "2026-03-25T23:21:43Z",
+            "owner": "sanity",
+            "repo": "pav.rs",
+            "stars": 14
+          }
+        }
+      ],
+      "title": "Statistical Model"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "node_type": "item",
+          "title": "innoave/genevo",
+          "description": "Execute genetic algorithm (GA) simulations in a customizable and extensible way.",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 95140041,
+            "language": "Rust",
+            "last_commit": "2024-02-10T12:19:26Z",
+            "owner": "innoave",
+            "repo": "genevo",
+            "stars": 187
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "willi-kappler/darwin-rs",
+          "description": "darwin-rs, evolutionary algorithms with rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48770205,
+            "language": "Rust",
+            "last_commit": "2022-07-11T09:20:36Z",
+            "owner": "willi-kappler",
+            "repo": "darwin-rs",
+            "stars": 129
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "Jeffail/spiril",
+          "description": "Rust library for genetic algorithms",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 113741895,
+            "language": "Rust",
+            "last_commit": "2018-05-16T08:32:42Z",
+            "owner": "Jeffail",
+            "repo": "spiril",
+            "stars": 29
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "martinus/differential-evolution-rs",
+          "description": "Generic Differential Evolution for Rust",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 67220687,
+            "language": "Rust",
+            "last_commit": "2016-09-12T13:45:20Z",
+            "owner": "martinus",
+            "repo": "differential-evolution-rs",
+            "stars": 21
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "sotrh/rust-genetic-algorithm",
+          "description": "Example of a genetic algorithm in Rust and Python",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 321531107,
+            "language": "Rust",
+            "last_commit": "2021-01-02T09:11:17Z",
+            "owner": "sotrh",
+            "repo": "rust-genetic-algorithm",
+            "stars": 3
+          }
+        }
+      ],
+      "title": "Evolutionary Algorithm"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rust-unofficial/awesome-rust",
+              "description": ", A curated list of Rust code and resources",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21938243,
+                "language": "Rust",
+                "last_commit": "2026-08-18T15:53:34Z",
+                "owner": "rust-unofficial",
+                "repo": "awesome-rust",
+                "stars": 58896
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "e-tony/best-of-ml-rust",
+              "description": ", A ranked list of awesome machine learning Rust libraries",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 337370263,
+                "language": null,
+                "last_commit": "2026-08-01T10:47:06Z",
+                "owner": "e-tornike",
+                "repo": "best-of-ml-rust",
+                "stars": 512
+              }
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Nearby Projects"
+        },
+        {
+          "children": [
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "epwalsh/rust-dl-webserver - Example of serving deep learning models in Rust with batched prediction",
+                  "description": ", 2021/11/16, epwalsh",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 250095528,
+                    "language": "Rust",
+                    "last_commit": "2023-03-09T18:57:16Z",
+                    "owner": "epwalsh",
+                    "repo": "rust-dl-webserver",
+                    "stars": 34
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "vaaaaanquish/rust-machine-learning-api-example - The axum example that uses resnet224 to infer images received in base64 and returns the results.",
+                  "description": ", 2021/9/7, vaaaaanquish",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 403163774,
+                    "language": "Rust",
+                    "last_commit": "2021-09-11T01:44:01Z",
+                    "owner": "vaaaaanquish",
+                    "repo": "rust-machine-learning-api-example",
+                    "stars": 19
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Rust ANN search Example - Image search example by approximate nearest-neighbor library In Rust",
+                  "description": ", 2021/8/15, vaaaaanquish",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 393703380,
+                    "language": "Rust",
+                    "last_commit": "2021-08-09T20:08:18Z",
+                    "owner": "vaaaaanquish",
+                    "repo": "rust-ann-search-example",
+                    "stars": 17
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "dzamkov/deep-learning-test - Implementing deep learning in Rust using just a linear algebra library (nalgebra)",
+                  "description": ", 2021/8/30, dzamkov",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 400849666,
+                    "language": "Rust",
+                    "last_commit": "2021-08-29T19:19:41Z",
+                    "owner": "dzamkov",
+                    "repo": "deep-learning-test",
+                    "stars": 11
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "tch-rs pretrain example - Docker for PyTorch rust bindings tch-rs. Example of pretrain model",
+                  "description": ", 2021/8/15, vaaaaanquish",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 393753156,
+                    "language": "Rust",
+                    "last_commit": "2021-08-07T18:07:20Z",
+                    "owner": "vaaaaanquish",
+                    "repo": "tch-rs-pretrain-example-docker",
+                    "stars": 9
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Apply"
+            },
+            {
+              "children": [
+                {
+                  "node_type": "item",
+                  "title": "Serving TensorFlow with Actix-Web",
+                  "description": ", kykosic/actix-tensorflow-example",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 275948605,
+                    "language": "Rust",
+                    "last_commit": "2023-03-25T01:04:13Z",
+                    "owner": "kykosic",
+                    "repo": "actix-tensorflow-example",
+                    "stars": 50
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Masked Language Model on Wasm, BERT on flontend examples",
+                  "description": ", optim-corp/masked-lm-wasm, 2021/8/27, Optim",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 399992975,
+                    "language": "Rust",
+                    "last_commit": "2022-06-06T05:38:15Z",
+                    "owner": "optim-corp",
+                    "repo": "masked-lm-wasm",
+                    "stars": 25
+                  }
+                },
+                {
+                  "node_type": "item",
+                  "title": "Serving PyTorch with Actix-Web",
+                  "description": ", kykosic/actix-pytorch-example",
+                  "children": [],
+                  "repo_info": {
+                    "archived": false,
+                    "id": 396447006,
+                    "language": "Python",
+                    "last_commit": "2021-08-15T18:16:06Z",
+                    "owner": "kykosic",
+                    "repo": "actix-pytorch-example",
+                    "stars": 17
+                  }
+                }
+              ],
+              "description": null,
+              "node_type": "group",
+              "title": "Case study"
+            }
+          ],
+          "description": null,
+          "node_type": "group",
+          "title": "Blogs"
+        }
+      ],
+      "title": "Reference"
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-19T03:25:15.692Z",
+    "last_updated": "2026-08-19T12:10:13.626Z",
     "original_repository": "vaaaaanquish/Awesome-Rust-MachineLearning",
+    "original_repository_id": 341584923,
     "original_repository_sha": "45d42d89b976e5bb8d7961f4a34d0565198998fd",
     "enhanced_repository": "enhansome/enhansome-Awesome-Rust-MachineLearning",
     "enhanced_repository_description": null,
