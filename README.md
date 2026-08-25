@@ -11,51 +11,51 @@ It also commented on good libraries within each category.
 
 We can find a better way to use Rust for Machine Learning.
 
-* [GitHub (en)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.md) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [GitHub (ja)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [GitHub (en)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.md) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [GitHub (ja)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning/blob/main/README.ja.md) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
 * [Website (en)](https://vaaaaanquish.github.io/Awesome-Rust-MachineLearning)
 
 # Awesome ToC with stars
 
-* [Support Tools](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#support-tools) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Jupyter Notebook](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#jupyter-notebook) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Graph Plot](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph-plot) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Vector](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#vector) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Dataframe](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#dataframe) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Graphical Modeling](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graphical-modeling) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Interface & Pipeline & AutoML](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline--automl) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Workflow](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#workflow) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [GPU](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gpu) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Deep Neural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neural-network) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Graph Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph-model) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Natural Language Processing (model)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-model) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Recommendation](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#recommendation) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Information Retrieval](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#information-retrieval) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Full Text Search](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#full-text-search) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Nearest Neighbor Search](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#nearest-neighbor-search) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Reinforcement Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reinforcement-learning) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Supervised Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#supervised-learning-model) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#unsupervised-learning--clustering-model) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Statistical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#statistical-model) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#evolutionary-algorithm) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Reference](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#nearby-projects) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Blogs](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#blogs) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-    * [Introduction](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#introduction) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-    * [Tutorial](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#tutorial) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-    * [Apply](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#apply) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-    * [Case Study](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#case-study) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Discussion](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#discussion) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Books](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#books) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Movie](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#movie) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [PodCast](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#podcast) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-  * [Paper](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#paper) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
-* [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks) ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Support Tools](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#support-tools) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Jupyter Notebook](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#jupyter-notebook) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Graph Plot](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph-plot) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Vector](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#vector) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Dataframe](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#dataframe) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Image Processing](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#image-processing) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Natural Language Processing (preprocessing)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-preprocessing) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Graphical Modeling](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graphical-modeling) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Interface & Pipeline & AutoML](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#interface--pipeline--automl) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Workflow](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#workflow) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [GPU](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gpu) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Comprehensive (like sklearn)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-like-sklearn) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Comprehensive (statistics)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#comprehensive-statistics) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Gradient Boosting](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#gradient-boosting) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Deep Neural Network](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#deep-neural-network) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Graph Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#graph-model) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Natural Language Processing (model)](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#natural-language-processing-model) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Recommendation](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#recommendation) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Information Retrieval](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#information-retrieval) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Full Text Search](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#full-text-search) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Nearest Neighbor Search](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#nearest-neighbor-search) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Reinforcement Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reinforcement-learning) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Supervised Learning](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#supervised-learning-model) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Unsupervised Learning & Clustering Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#unsupervised-learning--clustering-model) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Statistical Model](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#statistical-model) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Evolutionary Algorithm](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#evolutionary-algorithm) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Reference](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#reference) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Nearby Projects](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#nearby-projects) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Blogs](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#blogs) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+    * [Introduction](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#introduction) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+    * [Tutorial](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#tutorial) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+    * [Apply](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#apply) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+    * [Case Study](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#case-study) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Discussion](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#discussion) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Books](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#books) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Movie](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#movie) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [PodCast](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#podcast) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+  * [Paper](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#paper) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+* [Thanks](https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning#thanks) ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
 
 # Support Tools
 
@@ -71,7 +71,7 @@ We can find a better way to use Rust for Machine Learning.
 
 It might want to try `plotters` for now.
 
-* [38/plotters](https://github.com/38/plotters) ⭐ 4,613 | 🐛 183 | 🌐 Rust | 📅 2026-04-13 - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
+* [38/plotters](https://github.com/38/plotters) ⭐ 4,614 | 🐛 183 | 🌐 Rust | 📅 2026-04-13 - A rust drawing library for high quality data plotting for both WASM and native, statically and realtimely 🦀 📈🚀
 * [igiagkiozis/plotly](https://github.com/igiagkiozis/plotly) ⭐ 1,450 | 🐛 13 | 🌐 Rust | 📅 2026-08-03 - Plotly for Rust
 * [milliams/plotlib](https://github.com/milliams/plotlib) ⭐ 468 | 🐛 22 | 🌐 Rust | 📅 2022-12-12 - Data plotting library for Rust
 * [SiegeLord/RustGnuplot](https://github.com/SiegeLord/RustGnuplot) ⭐ 429 | 🐛 30 | 🌐 Rust | 📅 2025-12-15 - A Rust library for drawing plots, powered by Gnuplot.
@@ -107,9 +107,9 @@ Most things use `ndarray` or `std::vec`.
 Also, look at `nalgebra`. When the size of the matrix is known, it is valid.
 See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/btn1cz/ndarray_vs_nalgebra/)
 
-* [dimforge/nalgebra](https://github.com/dimforge/nalgebra) ⭐ 4,776 | 🐛 429 | 🌐 Rust | 📅 2026-06-30 - Linear algebra library for Rust.
+* [dimforge/nalgebra](https://github.com/dimforge/nalgebra) ⭐ 4,777 | 🐛 429 | 🌐 Rust | 📅 2026-06-30 - Linear algebra library for Rust.
 * [rust-ndarray/ndarray](https://github.com/rust-ndarray/ndarray) ⭐ 4,313 | 🐛 217 | 🌐 Rust | 📅 2026-07-18 - ndarray: an N-dimensional array with array views, multidimensional slicing, and efficient operations
-* [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) ⭐ 1,381 | 🐛 37 | 🌐 Rust | 📅 2026-08-23 - PyO3-based Rust binding of NumPy C-API
+* [PyO3/rust-numpy](https://github.com/PyO3/rust-numpy) ⭐ 1,381 | 🐛 31 | 🌐 Rust | 📅 2026-08-24 - PyO3-based Rust binding of NumPy C-API
 * [bluss/arrayvec](https://github.com/bluss/arrayvec) ⭐ 894 | 🐛 74 | 🌐 Rust | 📅 2026-07-19 - A vector with a fixed capacity. (Rust)
 * [arrayfire/arrayfire-rust](https://github.com/arrayfire/arrayfire-rust) ⭐ 827 | 🐛 30 | 🌐 Rust | 📅 2023-09-24 - Rust wrapper for ArrayFire
 * [vbarrielle/sprs](https://github.com/vbarrielle/sprs) ⭐ 634 | 🐛 48 | 🌐 Rust | 📅 2026-07-28 - sparse linear algebra library for rust
@@ -120,9 +120,9 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 
 It might want to try `polars` for now. `datafusion` looks good too.
 
-* [ritchie46/polars](https://github.com/ritchie46/polars) ⭐ 39,468 | 🐛 2,864 | 🌐 Rust | 📅 2026-08-24 - Rust DataFrame library
-* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) ⭐ 9,185 | 🐛 2,069 | 🌐 Rust | 📅 2026-08-24 - Apache Arrow DataFusion and Ballista query engines
-* [apache/arrow](https://github.com/apache/arrow-rs) ⭐ 3,587 | 🐛 648 | 🌐 Rust | 📅 2026-08-24 - In-memory columnar format, in Rust.
+* [ritchie46/polars](https://github.com/ritchie46/polars) ⭐ 39,479 | 🐛 2,868 | 🌐 Rust | 📅 2026-08-24 - Rust DataFrame library
+* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) ⭐ 9,187 | 🐛 2,094 | 🌐 Rust | 📅 2026-08-24 - Apache Arrow DataFusion and Ballista query engines
+* [apache/arrow](https://github.com/apache/arrow-rs) ⭐ 3,587 | 🐛 653 | 🌐 Rust | 📅 2026-08-24 - In-memory columnar format, in Rust.
 * [nevi-me/rust-dataframe](https://github.com/nevi-me/rust-dataframe) ⚠️ Archived - A Rust DataFrame implementation, built on Apache Arrow
 * [kernelmachine/utah](https://github.com/kernelmachine/utah) ⭐ 145 | 🐛 1 | 🌐 Rust | 📅 2018-07-24 - Dataframe structure and operations in Rust
 * [milesgranger/black-jack](https://github.com/milesgranger/black-jack) ⚠️ Archived - DataFrame / Series data processing in Rust
@@ -134,7 +134,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 * [image-rs/image](https://github.com/image-rs/image) ⭐ 5,860 | 🐛 225 | 🌐 Rust | 📅 2026-08-07 - Encoding and decoding images in Rust
   * [image-rs/imageproc](https://github.com/image-rs/imageproc) ⭐ 975 | 🐛 86 | 🌐 Rust | 📅 2026-07-31 - Image processing operations
-* [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) ⭐ 2,482 | 🐛 17 | 🌐 Rust | 📅 2026-07-31 - Rust bindings for OpenCV 3 & 4
+* [twistedfall/opencv-rust](https://github.com/twistedfall/opencv-rust) ⭐ 2,481 | 🐛 17 | 🌐 Rust | 📅 2026-07-31 - Rust bindings for OpenCV 3 & 4
 * [rustgd/cgmath](https://github.com/rustgd/cgmath) ⭐ 1,203 | 🐛 70 | 🌐 Rust | 📅 2024-12-07 - A linear algebra and mathematics library for computer graphics.
 * [rust-cv/cv](https://github.com/rust-cv/cv) ⭐ 1,062 | 🐛 42 | 🌐 Rust | 📅 2025-07-22 - Rust CV mono-repo. Contains pure-Rust dependencies which attempt to encapsulate the capability of OpenCV, OpenMVG, and vSLAM frameworks in a cohesive set of APIs.
 * [atomashpolskiy/rustface](https://github.com/atomashpolskiy/rustface) ⭐ 436 | 🐛 5 | 🌐 Rust | 📅 2024-04-04 - Face detection library for the Rust programming language
@@ -163,7 +163,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 ## Graphical Modeling
 
-* [petgraph/petgraph](https://github.com/petgraph/petgraph) ⭐ 4,001 | 🐛 283 | 🌐 Rust | 📅 2026-08-23 - Graph data structure library for Rust.
+* [petgraph/petgraph](https://github.com/petgraph/petgraph) ⭐ 4,002 | 🐛 284 | 🌐 Rust | 📅 2026-08-23 - Graph data structure library for Rust.
 * [alibaba/GraphScope](https://github.com/alibaba/GraphScope) ⭐ 3,554 | 🐛 462 | 🌐 C++ | 📅 2026-08-04 - GraphScope: A One-Stop Large-Scale Graph Computing System from Alibaba
 * [yamafaktory/hypergraph](https://github.com/yamafaktory/hypergraph) ⭐ 351 | 🐛 0 | 🌐 Rust | 📅 2026-05-25 - Hypergraph is a data structure library to generate directed hypergraphs
 * [purpleprotocol/graphlib](https://github.com/purpleprotocol/graphlib) ⭐ 196 | 🐛 8 | 🌐 Rust | 📅 2023-01-14 - Simple but powerful graph library for Rust
@@ -172,8 +172,8 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 ## Interface & Pipeline & AutoML
 
-* [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) ⭐ 9,422 | 🐛 568 | 🌐 Rust | 📅 2026-08-24 - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
-* [sonos/tract](https://github.com/sonos/tract) ⭐ 3,042 | 🐛 108 | 🌐 Rust | 📅 2026-08-24 - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+* [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) ⭐ 9,422 | 🐛 571 | 🌐 Rust | 📅 2026-08-25 - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
+* [sonos/tract](https://github.com/sonos/tract) ⭐ 3,042 | 🐛 113 | 🌐 Rust | 📅 2026-08-24 - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 * [webonnx/wonnx](https://github.com/webonnx/wonnx) ⚠️ Archived - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 * [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) ⭐ 1,466 | 🐛 39 | 🌐 Rust | 📅 2024-08-02 - Modelfox is an all-in-one automated machine learning framework. <https://github.com/modelfoxdotdev/modelfox> ⭐ 1,466 | 🐛 39 | 🌐 Rust | 📅 2024-08-02
 * [MegEngine/MegFlow](https://github.com/MegEngine/MegFlow) ⭐ 403 | 🐛 23 | 🌐 Rust | 📅 2023-05-26 - Efficient ML solutions for long-tailed demands.
@@ -185,7 +185,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 
 ## Workflow
 
-* [timberio/vector](https://github.com/timberio/vector) ⭐ 22,446 | 🐛 2,528 | 🌐 Rust | 📅 2026-08-24 - A high-performance, highly reliable, observability data pipeline
+* [timberio/vector](https://github.com/timberio/vector) ⭐ 22,448 | 🐛 2,519 | 🌐 Rust | 📅 2026-08-24 - A high-performance, highly reliable, observability data pipeline
 * [substantic/rain](https://github.com/substantic/rain) ⭐ 760 | 🐛 37 | 🌐 Rust | 📅 2023-03-04 - Framework for large distributed pipelines
 
 ## GPU
@@ -226,7 +226,7 @@ It might want to try `smartcore` or `linfa` for now.
 * [AtheMathmo/rusty-machine](https://github.com/AtheMathmo/rusty-machine) ⚠️ Archived - Machine Learning library for Rust
   * <https://github.com/AtheMathmo/rusty-machine#machine-learning> ⚠️ Archived
   * Confusion Matrix, Cross Varidation, Accuracy, F1 Score, MSE
-* [smartcorelib/smartcore](https://github.com/smartcorelib/smartcore) ⭐ 949 | 🐛 52 | 🌐 Rust | 📅 2026-08-23 - SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning.
+* [smartcorelib/smartcore](https://github.com/smartcorelib/smartcore) ⭐ 949 | 🐛 54 | 🌐 Rust | 📅 2026-08-24 - SmartCore is a comprehensive library for machine learning and numerical computing. The library provides a set of tools for linear algebra, numerical computing, optimization, and enables a generic, powerful yet still efficient approach to machine learning.
   * LASSO, Ridge, Random Forest, LU, QR, SVD, EVD, and more metrics
   * <https://smartcorelib.org/user_guide/quick_start.html>
 * [maciejkula/rustlearn](https://github.com/maciejkula/rustlearn) ⭐ 646 | 🐛 13 | 🌐 Rust | 📅 2021-06-07 - Machine learning crate for Rust
@@ -239,7 +239,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Comprehensive (Statistics)
 
-* [statrs-dev/statrs](https://github.com/statrs-dev/statrs) ⭐ 822 | 🐛 77 | 🌐 Rust | 📅 2026-08-22 - Statistical computation library for Rust
+* [statrs-dev/statrs](https://github.com/statrs-dev/statrs) ⭐ 822 | 🐛 79 | 🌐 Rust | 📅 2026-08-22 - Statistical computation library for Rust
 * [Axect/Peroxide](https://github.com/Axect/Peroxide) ⭐ 724 | 🐛 11 | 🌐 Rust | 📅 2026-08-10 - Rust numeric library with R, MATLAB & Python syntax
   * Linear Algebra, Functional Programming, Automatic Differentiation, Numerical Analysis, Statistics, Special functions, Plotting, Dataframe
 * [tarcieri/micromath](https://github.com/tarcieri/micromath) ⭐ 485 | 🐛 8 | 🌐 Rust | 📅 2024-09-07 - Embedded Rust arithmetic, 2D/3D vector, and statistics library
@@ -247,7 +247,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Gradient Boosting
 
-* [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) ⭐ 9,075 | 🐛 715 | 🌐 C++ | 📅 2026-08-24 - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks (predict only)
+* [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) ⭐ 9,074 | 🐛 715 | 🌐 C++ | 📅 2026-08-24 - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks (predict only)
 * [mesalock-linux/gbdt-rs](https://github.com/mesalock-linux/gbdt-rs) ⭐ 225 | 🐛 9 | 🌐 Rust | 📅 2025-01-29 - MesaTEE GBDT-RS : a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
 * [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) ⭐ 121 | 🐛 11 | 🌐 Rust | 📅 2024-04-29 - Rust bindings for XGBoost.
 * [vaaaaanquish/lightgbm-rs](https://github.com/vaaaaanquish/lightgbm-rs) ⭐ 79 | 🐛 16 | 🌐 Rust | 📅 2023-10-31 - LightGBM Rust binding
@@ -259,9 +259,9 @@ It might want to try `smartcore` or `linfa` for now.
 `tch-rs` also has torch vision, which is useful.
 
 * [autumnai/leaf](https://github.com/autumnai/leaf) ⭐ 5,541 | 🐛 32 | 🌐 Rust | 📅 2024-03-20 - Open Machine Intelligence Framework for Hackers. (GPU/CPU)
-* [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,477 | 🐛 247 | 🌐 Rust | 📅 2026-08-23 - Rust bindings for the C++ api of PyTorch.
+* [LaurentMazare/tch-rs](https://github.com/LaurentMazare/tch-rs) ⭐ 5,478 | 🐛 247 | 🌐 Rust | 📅 2026-08-23 - Rust bindings for the C++ api of PyTorch.
 * [tensorflow/rust](https://github.com/tensorflow/rust) ⚠️ Archived - Rust language bindings for TensorFlow
-* [coreylowman/dfdx](https://github.com/coreylowman/dfdx) ⭐ 1,930 | 🐛 91 | 🌐 Rust | 📅 2024-07-23 - Strongly typed Deep Learning in Rust
+* [coreylowman/dfdx](https://github.com/coreylowman/dfdx) ⭐ 1,931 | 🐛 91 | 🌐 Rust | 📅 2024-07-23 - Strongly typed Deep Learning in Rust
 * [spearow/juice](https://github.com/spearow/juice) ⭐ 1,132 | 🐛 45 | 🌐 Rust | 📅 2024-07-22 - The Hacker's Machine Learning Engine
 * [neuronika/neuronika](https://github.com/neuronika/neuronika) ⭐ 1,086 | 🐛 12 | 🌐 Rust | 📅 2022-10-10 - Tensors and dynamic neural networks in pure Rust.
 * [raskr/rust-autograd](https://github.com/raskr/rust-autograd) ⭐ 503 | 🐛 7 | 🌐 Rust | 📅 2026-06-02 - Tensors and differentiable operations (like TensorFlow) in Rust
@@ -294,10 +294,10 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Natural Language Processing (model)
 
-* [huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) ⭐ 10,990 | 🐛 262 | 🌐 Rust | 📅 2026-08-24 - The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
+* [huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) ⭐ 10,993 | 🐛 261 | 🌐 Rust | 📅 2026-08-25 - The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
 * [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) ⭐ 3,076 | 🐛 76 | 🌐 Rust | 📅 2026-01-13 - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 * [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) ⭐ 343 | 🐛 9 | 🌐 Rust | 📅 2026-01-22 - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models
-* [cpcdoy/rust-sbert](https://github.com/cpcdoy/rust-sbert) ⭐ 127 | 🐛 2 | 🌐 Rust | 📅 2024-09-17 - Rust port of sentence-transformers (<https://github.com/UKPLab/sentence-transformers> ⭐ 19,030 | 🐛 1,319 | 🌐 Python | 📅 2026-08-21)
+* [cpcdoy/rust-sbert](https://github.com/cpcdoy/rust-sbert) ⭐ 127 | 🐛 2 | 🌐 Rust | 📅 2024-09-17 - Rust port of sentence-transformers (<https://github.com/UKPLab/sentence-transformers> ⭐ 19,032 | 🐛 1,319 | 🌐 Python | 📅 2026-08-21)
 * [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) ⭐ 88 | 🐛 6 | 🌐 Rust | 📅 2023-05-08 - pure rust implementation of word2vec
 * [messense/fasttext-rs](https://github.com/messense/fasttext-rs) ⭐ 70 | 🐛 0 | 🌐 Rust | 📅 2026-04-18 - fastText Rust binding
 * [vongaisberg/gpt3\_macro](https://github.com/vongaisberg/gpt3_macro) ⭐ 68 | 🐛 1 | 🌐 Rust | 📅 2021-12-23 - Rust macro that uses GPT3 codex to generate code at compiletime
@@ -322,9 +322,9 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Full Text Search
 
-* [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 59,074 | 🐛 312 | 🌐 Rust | 📅 2026-08-14 - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
-* [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) ⭐ 15,974 | 🐛 445 | 🌐 Rust | 📅 2026-08-20 - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-* [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) ⭐ 11,538 | 🐛 803 | 🌐 Rust | 📅 2026-08-21 - Quickwit is a big data search engine.
+* [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 59,078 | 🐛 313 | 🌐 Rust | 📅 2026-08-14 - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+* [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) ⭐ 15,978 | 🐛 445 | 🌐 Rust | 📅 2026-08-24 - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
+* [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) ⭐ 11,543 | 🐛 800 | 🌐 Rust | 📅 2026-08-24 - Quickwit is a big data search engine.
 * [toshi-search/Toshi](https://github.com/toshi-search/Toshi) ⭐ 4,257 | 🐛 27 | 🌐 Rust | 📅 2026-06-28 - A full-text search engine in rust
 * [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,962 | 🐛 3 | 🌐 Rust | 📅 2026-08-15 - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 * [jameslittle230/stork](https://github.com/jameslittle230/stork) ⭐ 2,758 | 🐛 47 | 🌐 Rust | 📅 2023-07-01 - 🔎 Impossibly fast web search, made for static sites.
@@ -337,7 +337,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Nearest Neighbor Search
 
-* [qdrant/qdrant](https://github.com/qdrant/qdrant) ⭐ 34,157 | 🐛 702 | 🌐 Rust | 📅 2026-08-24 - Qdrant - vector similarity search engine with extended filtering support
+* [qdrant/qdrant](https://github.com/qdrant/qdrant) ⭐ 34,169 | 🐛 717 | 🌐 Rust | 📅 2026-08-24 - Qdrant - vector similarity search engine with extended filtering support
 * [hora-search/hora](https://github.com/hora-search/hora) ⭐ 2,659 | 🐛 26 | 🌐 Rust | 📅 2026-02-17 - 🚀 efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀. horasearch.com
 * [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) ⚠️ Archived - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 * [granne/granne](https://github.com/granne/granne) ⭐ 319 | 🐛 9 | 🌐 Rust | 📅 2024-07-08 - Graph-based Approximate Nearest Neighbor Search
@@ -365,7 +365,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Supervised Learning Model
 
-* [tomtung/omikuji](https://github.com/tomtung/omikuji) ⭐ 93 | 🐛 13 | 🌐 Rust | 📅 2026-08-19 - An efficient implementation of Partitioned Label Trees & its variations for extreme multi-label classification
+* [tomtung/omikuji](https://github.com/tomtung/omikuji) ⭐ 93 | 🐛 13 | 🌐 Rust | 📅 2026-08-24 - An efficient implementation of Partitioned Label Trees & its variations for extreme multi-label classification
 * [ralfbiedert/ffsvm-rust](https://github.com/ralfbiedert/ffsvm-rust) ⭐ 78 | 🐛 2 | 🌐 Rust | 📅 2024-12-14 - FFSVM stands for "Really Fast Support Vector Machine"
 * [messense/crfsuite-rs](https://github.com/messense/crfsuite-rs) ⭐ 25 | 🐛 2 | 🌐 Rust | 📅 2026-01-31 - Rust binding to crfsuite
 * [zenoxygen/bayespam](https://github.com/zenoxygen/bayespam) ⭐ 16 | 🐛 2 | 🌐 Rust | 📅 2025-10-02 - A simple bayesian spam classifier written in Rust.
@@ -415,7 +415,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Nearby Projects
 
-* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,956 | 🐛 7 | 🌐 Rust | 📅 2026-08-24, A curated list of Rust code and resources
+* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 58,962 | 🐛 7 | 🌐 Rust | 📅 2026-08-24, A curated list of Rust code and resources
 * [e-tony/best-of-ml-rust](https://github.com/e-tony/best-of-ml-rust) ⭐ 512 | 🐛 93 | 📅 2026-08-01, A ranked list of awesome machine learning Rust libraries
 * [Are we learning yet?](http://www.arewelearningyet.com/), A work-in-progress to catalog the state of machine learning in Rust
 * [The Best 51 Rust Machine learning Libraries](https://rustrepo.com/catalog/rust-machine-learning_newest_1), RustRepo
@@ -558,8 +558,8 @@ And the website will also be updated.
 
 Thanks for all the projects.
 
-<https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning> ⭐ 2,267 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
+<https://github.com/vaaaaanquish/Awesome-Rust-MachineLearning> ⭐ 2,268 | 🐛 12 | 🌐 JavaScript | 📅 2023-09-25
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-25._
