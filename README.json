@@ -1942,11 +1942,11 @@
                 "id": 263727855,
                 "language": "Rust",
                 "license": "MIT",
-                "last_commit": "2026-08-28T19:38:14Z",
-                "open_issues": 2870,
+                "last_commit": "2026-08-29T09:02:18Z",
+                "open_issues": 2871,
                 "owner": "pola-rs",
                 "repo": "polars",
-                "stars": 39536,
+                "stars": 39535,
                 "topics": [
                   "arrow",
                   "dataframe",
@@ -1972,11 +1972,11 @@
                 "id": 358917318,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-29T04:00:57Z",
-                "open_issues": 2114,
+                "last_commit": "2026-08-29T08:13:25Z",
+                "open_issues": 2112,
                 "owner": "apache",
                 "repo": "datafusion",
-                "stars": 9219,
+                "stars": 9238,
                 "topics": [
                   "arrow",
                   "big-data",
@@ -2003,8 +2003,8 @@
                 "id": 358917250,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T11:20:35Z",
-                "open_issues": 650,
+                "last_commit": "2026-08-29T08:37:48Z",
+                "open_issues": 643,
                 "owner": "apache",
                 "repo": "arrow-rs",
                 "stars": 3596,
@@ -2177,7 +2177,7 @@
                 "open_issues": 17,
                 "owner": "twistedfall",
                 "repo": "opencv-rust",
-                "stars": 2483,
+                "stars": 2484,
                 "topics": []
               },
               "first_seen": "2026-08-28T14:30:04.634Z"
@@ -2797,7 +2797,7 @@
                 "open_issues": 286,
                 "owner": "petgraph",
                 "repo": "petgraph",
-                "stars": 4005,
+                "stars": 4006,
                 "topics": [
                   "graph-algorithms",
                   "rust"
@@ -2935,8 +2935,8 @@
                 "id": 302827809,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-29T04:22:29Z",
-                "open_issues": 564,
+                "last_commit": "2026-08-29T08:23:04Z",
+                "open_issues": 563,
                 "owner": "databendlabs",
                 "repo": "databend",
                 "stars": 9424,
@@ -2971,8 +2971,8 @@
                 "id": 99561213,
                 "language": "Rust",
                 "license": "NOASSERTION",
-                "last_commit": "2026-08-28T15:32:15Z",
-                "open_issues": 111,
+                "last_commit": "2026-08-29T08:40:36Z",
+                "open_issues": 110,
                 "owner": "sonos",
                 "repo": "tract",
                 "stars": 3047,
@@ -3232,7 +3232,7 @@
                 "open_issues": 2512,
                 "owner": "vectordotdev",
                 "repo": "vector",
-                "stars": 22476,
+                "stars": 22481,
                 "topics": [
                   "agent",
                   "cloud-native",
@@ -5306,7 +5306,7 @@
                 "open_issues": 444,
                 "owner": "quickwit-oss",
                 "repo": "tantivy",
-                "stars": 16007,
+                "stars": 16008,
                 "topics": [
                   "rust",
                   "search-engine"
@@ -5598,11 +5598,11 @@
                 "id": 268163609,
                 "language": "Rust",
                 "license": "Apache-2.0",
-                "last_commit": "2026-08-28T22:05:57Z",
-                "open_issues": 718,
+                "last_commit": "2026-08-29T06:48:24Z",
+                "open_issues": 722,
                 "owner": "qdrant",
                 "repo": "qdrant",
-                "stars": 34250,
+                "stars": 34252,
                 "topics": [
                   "ai-search",
                   "ai-search-engine",
@@ -7000,11 +7000,11 @@
                 "id": 21938243,
                 "language": "Rust",
                 "license": "CC0-1.0",
-                "last_commit": "2026-08-28T11:12:13Z",
-                "open_issues": 8,
+                "last_commit": "2026-08-29T08:09:04Z",
+                "open_issues": 7,
                 "owner": "rust-unofficial",
                 "repo": "awesome-rust",
-                "stars": 59031,
+                "stars": 59033,
                 "topics": [
                   "awesome",
                   "rust"
@@ -7290,7 +7290,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T04:24:46.838Z",
+    "last_updated": "2026-08-29T09:16:38.434Z",
     "original_repository_info": {
       "archived": false,
       "description": "This repository is a list of machine learning libraries written in Rust. It's a compilation of GitHub repositories, blogs, books, movies, discussions, papers, etc. 🦀",
