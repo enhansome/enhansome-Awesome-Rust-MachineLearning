@@ -120,8 +120,8 @@ See also: [ndarray vs nalgebra - reddit](https://www.reddit.com/r/rust/comments/
 
 It might want to try `polars` for now. `datafusion` looks good too.
 
-* [ritchie46/polars](https://github.com/ritchie46/polars) ⭐ 39,920 | 🐛 2,933 | 🌐 Rust | 📅 2026-10-06 - Rust DataFrame library
-* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) ⭐ 9,404 | 🐛 2,396 | 🌐 Rust | 📅 2026-10-06 - Apache Arrow DataFusion and Ballista query engines
+* [ritchie46/polars](https://github.com/ritchie46/polars) ⭐ 39,921 | 🐛 2,934 | 🌐 Rust | 📅 2026-10-06 - Rust DataFrame library
+* [apache/arrow-datafusion](https://github.com/apache/arrow-datafusion) ⭐ 9,404 | 🐛 2,391 | 🌐 Rust | 📅 2026-10-06 - Apache Arrow DataFusion and Ballista query engines
 * [apache/arrow](https://github.com/apache/arrow-rs) ⭐ 3,629 | 🐛 661 | 🌐 Rust | 📅 2026-10-06 - In-memory columnar format, in Rust.
 * [nevi-me/rust-dataframe](https://github.com/nevi-me/rust-dataframe) ⚠️ Archived - A Rust DataFrame implementation, built on Apache Arrow
 * [kernelmachine/utah](https://github.com/kernelmachine/utah) ⭐ 145 | 🐛 1 | 🌐 Rust | 📅 2018-07-24 - Dataframe structure and operations in Rust
@@ -147,7 +147,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 * [google-research/deduplicate-text-datasets](https://github.com/google-research/deduplicate-text-datasets) ⚠️ Archived - This repository contains code to deduplicate language model datasets as descrbed in the paper "Deduplicating Training Data Makes Language Models Better" by Katherine Lee, Daphne Ippolito, Andrew Nystrom, Chiyuan Zhang, Douglas Eck, Chris Callison-Burch and Nicholas Carlini. This repository contains both the ExactSubstr deduplication implementation (written in Rust) along with the scripts we used in the paper to perform deduplication and inspect the results (written in Python). In an upcoming update, we will add files to reproduce the NearDup-deduplicated versions of the C4, RealNews, LM1B, and Wiki-40B-en datasets.
 * [pemistahl/lingua-rs](https://github.com/pemistahl/lingua-rs) ⭐ 1,144 | 🐛 42 | 🌐 Rust | 📅 2026-10-05 - 👄 The most accurate natural language detection library in the Rust ecosystem, suitable for long and short text alike
 * [greyblake/whatlang-rs](https://github.com/greyblake/whatlang-rs) ⭐ 1,089 | 🐛 20 | 🌐 Rust | 📅 2025-12-24 - Natural language detection library for Rust.
-* [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) ⭐ 675 | 🐛 29 | 🌐 Rust | 📅 2023-05-23 - A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
+* [bminixhofer/nlprule](https://github.com/bminixhofer/nlprule) ⭐ 676 | 🐛 29 | 🌐 Rust | 📅 2023-05-23 - A fast, low-resource Natural Language Processing and Error Correction library written in Rust.
 * [christophertrml/rs-natural](https://github.com/christophertrml/rs-natural) ⭐ 236 | 🐛 7 | 🌐 Rust | 📅 2023-02-11 - Natural Language Processing for Rust
 * [rth/vtext](https://github.com/rth/vtext) ⭐ 153 | 🐛 14 | 🌐 Rust | 📅 2023-07-06 - Simple NLP in Rust with Python bindings
 * [CurrySoftware/rust-stemmers](https://github.com/CurrySoftware/rust-stemmers) ⭐ 136 | 🐛 9 | 🌐 Rust | 📅 2024-04-27 - Common stop words in a variety of languages
@@ -173,7 +173,7 @@ It might want to try `image-rs` for now. Algorithms such as linear transformatio
 ## Interface & Pipeline & AutoML
 
 * [datafuselabs/datafuse](https://github.com/datafuselabs/datafuse) ⭐ 9,454 | 🐛 496 | 🌐 Rust | 📅 2026-10-06 - A Modern Real-Time Data Processing & Analytics DBMS with Cloud-Native Architecture, written in Rust
-* [sonos/tract](https://github.com/sonos/tract) ⭐ 3,080 | 🐛 111 | 🌐 Rust | 📅 2026-10-06 - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
+* [sonos/tract](https://github.com/sonos/tract) ⭐ 3,080 | 🐛 110 | 🌐 Rust | 📅 2026-10-06 - Tiny, no-nonsense, self-contained, Tensorflow and ONNX inference
 * [webonnx/wonnx](https://github.com/webonnx/wonnx) ⚠️ Archived - A GPU-accelerated ONNX inference run-time written 100% in Rust, ready for the web
 * [modelfoxdotdev/modelfox](https://github.com/modelfoxdotdev/modelfox) ⭐ 1,467 | 🐛 39 | 🌐 Rust | 📅 2024-08-02 - Modelfox is an all-in-one automated machine learning framework. <https://github.com/modelfoxdotdev/modelfox> ⭐ 1,467 | 🐛 39 | 🌐 Rust | 📅 2024-08-02
 * [MegEngine/MegFlow](https://github.com/MegEngine/MegFlow) ⭐ 401 | 🐛 23 | 🌐 Rust | 📅 2023-05-26 - Efficient ML solutions for long-tailed demands.
@@ -247,7 +247,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Gradient Boosting
 
-* [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) ⭐ 9,134 | 🐛 734 | 🌐 C++ | 📅 2026-10-06 - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks (predict only)
+* [catboost/catboost](https://github.com/catboost/catboost/tree/master/catboost/rust-package) ⭐ 9,134 | 🐛 733 | 🌐 C++ | 📅 2026-10-06 - A fast, scalable, high performance Gradient Boosting on Decision Trees library, used for ranking, classification, regression and other machine learning tasks (predict only)
 * [mesalock-linux/gbdt-rs](https://github.com/mesalock-linux/gbdt-rs) ⭐ 225 | 🐛 9 | 🌐 Rust | 📅 2025-01-29 - MesaTEE GBDT-RS : a fast and secure GBDT library, supporting TEEs such as Intel SGX and ARM TrustZone
 * [davechallis/rust-xgboost](https://github.com/davechallis/rust-xgboost) ⭐ 121 | 🐛 11 | 🌐 Rust | 📅 2024-04-29 - Rust bindings for XGBoost.
 * [vaaaaanquish/lightgbm-rs](https://github.com/vaaaaanquish/lightgbm-rs) ⭐ 78 | 🐛 16 | 🌐 Rust | 📅 2023-10-31 - LightGBM Rust binding
@@ -294,10 +294,10 @@ It might want to try `smartcore` or `linfa` for now.
 
 # Natural Language Processing (model)
 
-* [huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) ⭐ 11,155 | 🐛 211 | 🌐 Rust | 📅 2026-10-06 - The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
+* [huggingface/tokenizers](https://github.com/huggingface/tokenizers/tree/master/tokenizers) ⭐ 11,156 | 🐛 207 | 🌐 Rust | 📅 2026-10-06 - The core of tokenizers, written in Rust. Provides an implementation of today's most used tokenizers, with a focus on performance and versatility.
 * [guillaume-be/rust-bert](https://github.com/guillaume-be/rust-bert) ⭐ 3,078 | 🐛 76 | 🌐 Rust | 📅 2026-01-13 - Rust native ready-to-use NLP pipelines and transformer-based models (BERT, DistilBERT, GPT2,...)
 * [guillaume-be/rust-tokenizers](https://github.com/guillaume-be/rust-tokenizers) ⭐ 345 | 🐛 9 | 🌐 Rust | 📅 2026-01-22 - Rust-tokenizer offers high-performance tokenizers for modern language models, including WordPiece, Byte-Pair Encoding (BPE) and Unigram (SentencePiece) models
-* [cpcdoy/rust-sbert](https://github.com/cpcdoy/rust-sbert) ⭐ 127 | 🐛 3 | 🌐 Rust | 📅 2024-09-17 - Rust port of sentence-transformers (<https://github.com/UKPLab/sentence-transformers> ⭐ 19,153 | 🐛 1,376 | 🌐 Python | 📅 2026-10-01)
+* [cpcdoy/rust-sbert](https://github.com/cpcdoy/rust-sbert) ⭐ 127 | 🐛 3 | 🌐 Rust | 📅 2024-09-17 - Rust port of sentence-transformers (<https://github.com/UKPLab/sentence-transformers> ⭐ 19,153 | 🐛 1,377 | 🌐 Python | 📅 2026-10-01)
 * [mklf/word2vec-rs](https://github.com/mklf/word2vec-rs) ⭐ 87 | 🐛 6 | 🌐 Rust | 📅 2023-05-08 - pure rust implementation of word2vec
 * [messense/fasttext-rs](https://github.com/messense/fasttext-rs) ⭐ 71 | 🐛 0 | 🌐 Rust | 📅 2026-04-18 - fastText Rust binding
 * [vongaisberg/gpt3\_macro](https://github.com/vongaisberg/gpt3_macro) ⭐ 68 | 🐛 1 | 🌐 Rust | 📅 2021-12-23 - Rust macro that uses GPT3 codex to generate code at compiletime
@@ -322,9 +322,9 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Full Text Search
 
-* [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 59,499 | 🐛 322 | 🌐 Rust | 📅 2026-10-06 - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
+* [meilisearch/MeiliSearch](https://github.com/meilisearch/MeiliSearch) ⭐ 59,500 | 🐛 322 | 🌐 Rust | 📅 2026-10-06 - Lightning Fast, Ultra Relevant, and Typo-Tolerant Search Engine
 * [tantivy-search/tantivy](https://github.com/tantivy-search/tantivy) ⭐ 16,184 | 🐛 466 | 🌐 Rust | 📅 2026-10-05 - Tantivy is a full-text search engine library inspired by Apache Lucene and written in Rust
-* [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) ⭐ 11,699 | 🐛 828 | 🌐 Rust | 📅 2026-10-06 - Quickwit is a big data search engine.
+* [quickwit-inc/quickwit](https://github.com/quickwit-inc/quickwit) ⭐ 11,699 | 🐛 829 | 🌐 Rust | 📅 2026-10-06 - Quickwit is a big data search engine.
 * [toshi-search/Toshi](https://github.com/toshi-search/Toshi) ⭐ 4,254 | 🐛 27 | 🌐 Rust | 📅 2026-06-28 - A full-text search engine in rust
 * [tinysearch/tinysearch](https://github.com/tinysearch/tinysearch) ⭐ 2,976 | 🐛 3 | 🌐 Rust | 📅 2026-09-14 - 🔍 Tiny, full-text search engine for static websites built with Rust and Wasm
 * [jameslittle230/stork](https://github.com/jameslittle230/stork) ⭐ 2,759 | 🐛 47 | 🌐 Rust | 📅 2023-07-01 - 🔎 Impossibly fast web search, made for static sites.
@@ -337,7 +337,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Nearest Neighbor Search
 
-* [qdrant/qdrant](https://github.com/qdrant/qdrant) ⭐ 34,944 | 🐛 742 | 🌐 Rust | 📅 2026-10-06 - Qdrant - vector similarity search engine with extended filtering support
+* [qdrant/qdrant](https://github.com/qdrant/qdrant) ⭐ 34,944 | 🐛 745 | 🌐 Rust | 📅 2026-10-06 - Qdrant - vector similarity search engine with extended filtering support
 * [hora-search/hora](https://github.com/hora-search/hora) ⭐ 2,656 | 🐛 26 | 🌐 Rust | 📅 2026-02-17 - 🚀 efficient approximate nearest neighbor search algorithm collections library, which implemented with Rust 🦀. horasearch.com
 * [InstantDomain/instant-distance](https://github.com/InstantDomain/instant-distance) ⚠️ Archived - Fast approximate nearest neighbor searching in Rust, based on HNSW index
 * [granne/granne](https://github.com/granne/granne) ⭐ 319 | 🐛 9 | 🌐 Rust | 📅 2024-07-08 - Graph-based Approximate Nearest Neighbor Search
@@ -415,7 +415,7 @@ It might want to try `smartcore` or `linfa` for now.
 
 ## Nearby Projects
 
-* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,688 | 🐛 10 | 🌐 Rust | 📅 2026-10-06, A curated list of Rust code and resources
+* [rust-unofficial/awesome-rust](https://github.com/rust-unofficial/awesome-rust) ⭐ 59,690 | 🐛 10 | 🌐 Rust | 📅 2026-10-06, A curated list of Rust code and resources
 * [e-tony/best-of-ml-rust](https://github.com/e-tony/best-of-ml-rust) ⭐ 518 | 🐛 96 | 📅 2026-10-01, A ranked list of awesome machine learning Rust libraries
 * [Are we learning yet?](http://www.arewelearningyet.com/), A work-in-progress to catalog the state of machine learning in Rust
 * [The Best 51 Rust Machine learning Libraries](https://rustrepo.com/catalog/rust-machine-learning_newest_1), RustRepo
